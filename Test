@@ -1,0 +1,1101 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="US: HBO (West) | HD" tvg-id="hbo.pacific.us" group-title="USA MOVIE NETWORKS",US: HBO (West) | HD
+http://cdn1.premiumspeed.tech/live/1329?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX (West) | HD" tvg-id="US: CINEMAX WEST" group-title="USA MOVIE NETWORKS",US: CINEMAX (West) | HD
+http://cdn1.premiumspeed.tech/live/1336?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME (West) | HD" tvg-id="US: SHOWTIME WEST" group-title="USA MOVIE NETWORKS",US: SHOWTIME (West) | HD
+http://cdn1.premiumspeed.tech/live/1327?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME BEYOND | HD" tvg-id="US: SHOWTIME BEYOND" group-title="USA MOVIE NETWORKS",US: SHOWTIME BEYOND | HD
+http://cdn1.premiumspeed.tech/live/419?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO 2 | HD" tvg-id="US: HBO 2" group-title="USA MOVIE NETWORKS",US: HBO 2 | HD
+http://cdn1.premiumspeed.tech/live/1358?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX ACTIONMAX (West) | HD" tvg-id="US: ACTIONMAX" group-title="USA MOVIE NETWORKS",US: CINEMAX ACTIONMAX (West) | HD
+http://cdn1.premiumspeed.tech/live/1344?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME EXTREME | HD" tvg-id="showtimeextreme.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME EXTREME | HD
+http://cdn1.premiumspeed.tech/live/1372?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: INDIE PLEX | UHD" tvg-id="indieplex.us" group-title="USA MOVIE NETWORKS",US: INDIE PLEX | UHD
+http://cdn1.premiumspeed.tech/live/1362?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX MOVIEMAX | HD" tvg-id="moviemax.us" group-title="USA MOVIE NETWORKS",US: CINEMAX MOVIEMAX | HD
+http://cdn1.premiumspeed.tech/live/12920?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: TCM | HD" tvg-id="US: TCM" group-title="USA MOVIE NETWORKS",US: TCM | HD
+http://cdn1.premiumspeed.tech/live/1340?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME (East) | UHD" tvg-id="showtime.eastern.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME (East) | UHD
+http://cdn1.premiumspeed.tech/live/1368?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME FAMILY ZONE | HD" tvg-id="rshowtimefamilyzone.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME FAMILY ZONE | HD
+http://cdn1.premiumspeed.tech/live/1373?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX 5 STARMAX | HD" tvg-id="US: 5 STARMAX" group-title="USA MOVIE NETWORKS",US: CINEMAX 5 STARMAX | HD
+http://cdn1.premiumspeed.tech/live/1345?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME (West) | UHD" tvg-id="showtime.west.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME (West) | UHD
+http://cdn1.premiumspeed.tech/live/1369?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME NEXT | HD" tvg-id="showtimenext.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME NEXT | HD
+http://cdn1.premiumspeed.tech/live/1375?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME 2 | UHD" tvg-id="showtime2.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME 2 | UHD
+http://cdn1.premiumspeed.tech/live/1370?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME SHOWCASE | HD" tvg-id="showtimeshowcase.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME SHOWCASE | HD
+http://cdn1.premiumspeed.tech/live/1371?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME WOMEN | HD" tvg-id="showtimewomen.us" group-title="USA MOVIE NETWORKS",US: SHOWTIME WOMEN | HD
+http://cdn1.premiumspeed.tech/live/1374?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: THE MOVIE CHANNEL | HD" tvg-id="tmc.us" group-title="USA MOVIE NETWORKS",US: THE MOVIE CHANNEL | HD
+http://cdn1.premiumspeed.tech/live/378?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ (East) | UHD" tvg-id="US: STARZ EAST" group-title="USA MOVIE NETWORKS",US: STARZ (East) | UHD
+http://cdn1.premiumspeed.tech/live/1338?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ (West) | UHD" tvg-id="starzwest.us" group-title="USA MOVIE NETWORKS",US: STARZ (West) | UHD
+http://cdn1.premiumspeed.tech/live/1367?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ EDGE | UHD" tvg-id="starzedge.us" group-title="USA MOVIE NETWORKS",US: STARZ EDGE | UHD
+http://cdn1.premiumspeed.tech/live/1365?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SONY MOVIES | HD" tvg-id="US: SONY MOVIE CHANNEL" group-title="USA MOVIE NETWORKS",US: SONY MOVIES | HD
+http://cdn1.premiumspeed.tech/live/1348?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: LIFETIME MOVIES | UHD" tvg-id="lifetime.movies.east.us" group-title="USA MOVIE NETWORKS",US: LIFETIME MOVIES | UHD
+http://cdn1.premiumspeed.tech/live/1325?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE (West) | UHD" tvg-id="US: STARZENCORE" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE (West) | UHD
+http://cdn1.premiumspeed.tech/live/1349?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SONY MOVIE CHANNEL | HD" tvg-id="sony.us" group-title="USA MOVIE NETWORKS",US: SONY MOVIE CHANNEL | HD
+http://cdn1.premiumspeed.tech/live/1326?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE ACTION | UHD" tvg-id="starzencoreaction.us" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE ACTION | UHD
+http://cdn1.premiumspeed.tech/live/1376?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE WESTERNS | UHD" tvg-id="US: STARZENCORE WESTERNS" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE WESTERNS | UHD
+http://cdn1.premiumspeed.tech/live/1353?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: EPIX | HD" tvg-id="US: EPIX" group-title="USA MOVIE NETWORKS",US: EPIX | HD
+http://cdn1.premiumspeed.tech/live/1332?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: INSP | HD" tvg-id="insp.us" group-title="USA MOVIE NETWORKS",US: INSP | HD
+http://cdn1.premiumspeed.tech/live/4488?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: EPIX 2 | HD" tvg-id="US: EPIX2" group-title="USA MOVIE NETWORKS",US: EPIX 2 | HD
+http://cdn1.premiumspeed.tech/live/1333?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: TURNER CLASSIC MOVIES" tvg-id="turner.classic.movies.usa.us" group-title="USA MOVIE NETWORKS",US: TURNER CLASSIC MOVIES
+http://cdn1.premiumspeed.tech/live/1346?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: EPIX DRIVE IN | HD" tvg-id="epix.drive.in.us" group-title="USA MOVIE NETWORKS",US: EPIX DRIVE IN | HD
+http://cdn1.premiumspeed.tech/live/390?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: EPIX HITS | HD" tvg-id="US: EPIX HITS" group-title="USA MOVIE NETWORKS",US: EPIX HITS | HD
+http://cdn1.premiumspeed.tech/live/1339?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ CINEMA | HD" tvg-id="US: STARZ CINEMA" group-title="USA MOVIE NETWORKS",US: STARZ CINEMA | HD
+http://cdn1.premiumspeed.tech/live/1341?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ COMEDY | HD" tvg-id="starzcomedy.us" group-title="USA MOVIE NETWORKS",US: STARZ COMEDY | HD
+http://cdn1.premiumspeed.tech/live/1364?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE BLACK | HD" tvg-id="US: STARZENCORE BLACK" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE BLACK | HD
+http://cdn1.premiumspeed.tech/live/1352?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE CLASSIC | HD" tvg-id="US: STARZENCORE CLASSIC" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE CLASSIC | HD
+http://cdn1.premiumspeed.tech/live/1351?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: FXM | HD" tvg-id="US: FXM" group-title="USA MOVIE NETWORKS",US: FXM | HD
+http://cdn1.premiumspeed.tech/live/1331?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: LIFETIME MOVIES | HD" tvg-id="lifetimemovies.us" group-title="USA MOVIE NETWORKS",US: LIFETIME MOVIES | HD
+http://cdn1.premiumspeed.tech/live/2643?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE | UHD" tvg-id="US: STARZENCORE" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE | UHD
+http://cdn1.premiumspeed.tech/live/1347?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE FAMILY | HD" tvg-id="US: STARZENCORE FAMILY" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE FAMILY | HD
+http://cdn1.premiumspeed.tech/live/1355?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ KIDS AND FAMILY | UHD" tvg-id="US: STARZ KIDS&FAMILY" group-title="USA MOVIE NETWORKS",US: STARZ KIDS AND FAMILY | UHD
+http://cdn1.premiumspeed.tech/live/1354?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO ZONE | UHD" tvg-id="hbozone.us" group-title="USA MOVIE NETWORKS",US: HBO ZONE | UHD
+http://cdn1.premiumspeed.tech/live/6381?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO SIGNATURE | UHD" tvg-id="US: HBO SIGNATURE" group-title="USA MOVIE NETWORKS",US: HBO SIGNATURE | UHD
+http://cdn1.premiumspeed.tech/live/1342?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX ACTIONMAX | UHD" tvg-id="actionmax.us" group-title="USA MOVIE NETWORKS",US: CINEMAX ACTIONMAX | UHD
+http://cdn1.premiumspeed.tech/live/12643?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ ENCORE SUSPENSE | HD" tvg-id="US: STARZENCORE SUSPENSE" group-title="USA MOVIE NETWORKS",US: STARZ ENCORE SUSPENSE | HD
+http://cdn1.premiumspeed.tech/live/1356?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO (East) | UHD" tvg-id="US: HBO EAST" group-title="USA MOVIE NETWORKS",US: HBO (East) | UHD
+http://cdn1.premiumspeed.tech/live/1359?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: MGM | HD" tvg-id="mgm.us" group-title="USA MOVIE NETWORKS",US: MGM | HD
+http://cdn1.premiumspeed.tech/live/12977?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ IN BLACK | HD" tvg-id="starzinblack.us" group-title="USA MOVIE NETWORKS",US: STARZ IN BLACK | HD
+http://cdn1.premiumspeed.tech/live/1366?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX MOREMAX | HD" tvg-id="moremax.us" group-title="USA MOVIE NETWORKS",US: CINEMAX MOREMAX | HD
+http://cdn1.premiumspeed.tech/live/6428?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US:  Movies! | SD" tvg-id="" group-title="USA MOVIE NETWORKS",US:  Movies! | SD
+http://cdn1.premiumspeed.tech/live/13142?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO COMEDY | UHD" tvg-id="hbocomedy.us" group-title="USA MOVIE NETWORKS",US: HBO COMEDY | UHD
+http://cdn1.premiumspeed.tech/live/11345?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: STARZ (West) | HD" tvg-id="US: STARZ WEST" group-title="USA MOVIE NETWORKS",US: STARZ (West) | HD
+http://cdn1.premiumspeed.tech/live/1350?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO FAMILY (East) | UHD" tvg-id="US: HBO FAMILY" group-title="USA MOVIE NETWORKS",US: HBO FAMILY (East) | UHD
+http://cdn1.premiumspeed.tech/live/1357?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HDNET MOVIES | UHD" tvg-id="hdnetmovies.us" group-title="USA MOVIE NETWORKS",US: HDNET MOVIES | UHD
+http://cdn1.premiumspeed.tech/live/1360?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: MOVIE PLEX | HD" tvg-id="US: MOVIEPLEX" group-title="USA MOVIE NETWORKS",US: MOVIE PLEX | HD
+http://cdn1.premiumspeed.tech/live/1361?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HALLMARK MOVIES & MYSTERIES | HD" tvg-id="US: HALLMARK MOVIES AND MYSTERIES" group-title="USA MOVIE NETWORKS",US: HALLMARK MOVIES & MYSTERIES | HD
+http://cdn1.premiumspeed.tech/live/321?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: HBO (East) | HD" tvg-id="US: HBO EAST" group-title="USA MOVIE NETWORKS",US: HBO (East) | HD
+http://cdn1.premiumspeed.tech/live/1330?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: CINEMAX (East) | HD" tvg-id="US: CINEMAX EAST" group-title="USA MOVIE NETWORKS",US: CINEMAX (East) | HD
+http://cdn1.premiumspeed.tech/live/1335?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: RETRO PLEX | UHD" tvg-id="retroplex.us" group-title="USA MOVIE NETWORKS",US: RETRO PLEX | UHD
+http://cdn1.premiumspeed.tech/live/1363?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="US: SHOWTIME (East) | HD" tvg-id="US: SHOWTIME EAST" group-title="USA MOVIE NETWORKS",US: SHOWTIME (East) | HD
+http://cdn1.premiumspeed.tech/live/1328?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Select | HD" tvg-id="UK: SKY CINEMA SELECT" group-title="UK SKY MOVIES",UK: Sky Cinema Select | HD
+http://cdn1.premiumspeed.tech/live/1387?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema SciFi & Horror | HD" tvg-id="skyscifihorror.uk" group-title="UK SKY MOVIES",UK: Sky Cinema SciFi & Horror | HD
+http://cdn1.premiumspeed.tech/live/1400?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Thriller | HD" tvg-id="UK: SKY CINEMA THRILLER" group-title="UK SKY MOVIES",UK: Sky Cinema Thriller | HD
+http://cdn1.premiumspeed.tech/live/1384?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action & Adventure | UHD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Action & Adventure | UHD
+http://cdn1.premiumspeed.tech/live/1399?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: SKY CINEMA COMEDY | UHD" tvg-id="UK: SKY CINEMA COMEDY" group-title="UK SKY MOVIES",UK: SKY CINEMA COMEDY | UHD
+http://cdn1.premiumspeed.tech/live/1398?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney | UHD" tvg-id="UK: SKY CINEMA DISNEY" group-title="UK SKY MOVIES",UK: Sky Cinema Disney | UHD
+http://cdn1.premiumspeed.tech/live/1397?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama & Romance | UHD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Drama & Romance | UHD
+http://cdn1.premiumspeed.tech/live/1403?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama | UHD" tvg-id="UK: SKY CINEMA DRAMA" group-title="UK SKY MOVIES",UK: Sky Cinema Drama | UHD
+http://cdn1.premiumspeed.tech/live/11723?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: MOVIES 24 | SD" tvg-id="UK: MOVIES24" group-title="UK SKY MOVIES",UK: MOVIES 24 | SD
+http://cdn1.premiumspeed.tech/live/6399?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family | UHD" tvg-id="UK: SKY CINEMA FAMILY" group-title="UK SKY MOVIES",UK: Sky Cinema Family | UHD
+http://cdn1.premiumspeed.tech/live/1396?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: MOVIES 24+ | SD" tvg-id="UK: MOVIES24 +1" group-title="UK SKY MOVIES",UK: MOVIES 24+ | SD
+http://cdn1.premiumspeed.tech/live/11709?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Greats | UHD" tvg-id="UK: SKY CINEMA GREATS" group-title="UK SKY MOVIES",UK: Sky Cinema Greats | UHD
+http://cdn1.premiumspeed.tech/live/1395?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Hits | UHD" tvg-id="UK: SKY CINEMA HITS" group-title="UK SKY MOVIES",UK: Sky Cinema Hits | UHD
+http://cdn1.premiumspeed.tech/live/1394?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema SciFi & Horror | UHD" tvg-id="UK: SKY CINEMA SCIFI" group-title="UK SKY MOVIES",UK: Sky Cinema SciFi & Horror | UHD
+http://cdn1.premiumspeed.tech/live/11719?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premiere | UHD" tvg-id="UK: SKY CINEMA PREMIERE" group-title="UK SKY MOVIES",UK: Sky Cinema Premiere | UHD
+http://cdn1.premiumspeed.tech/live/1393?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="http://live.cs-tv.eu:4545/live/quality.restreams/H8v4K9@Jh9/148.tsUK: Sky Cinema Thriller | UHD" tvg-id="UK: SKY CINEMA THRILLER" group-title="UK SKY MOVIES",http://live.cs-tv.eu:4545/live/quality.restreams/H8v4K9@Jh9/148.tsUK: Sky Cinema Thriller | UHD
+http://cdn1.premiumspeed.tech/live/1390?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action | HD" tvg-id="UK: SKY CINEMA ACTION" group-title="UK SKY MOVIES",UK: Sky Cinema Action | HD
+http://cdn1.premiumspeed.tech/live/1382?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action & Adventure | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Action & Adventure | HD
+http://cdn1.premiumspeed.tech/live/1402?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: SKY CINEMA COMEDY | HD" tvg-id="UK: SKY CINEMA COMEDY" group-title="UK SKY MOVIES",UK: SKY CINEMA COMEDY | HD
+http://cdn1.premiumspeed.tech/live/1383?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Sci-fi | UHD" tvg-id="UK: SKY CINEMA SCIFI" group-title="UK SKY MOVIES",UK: Sky Cinema Sci-fi | UHD
+http://cdn1.premiumspeed.tech/live/1386?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney | HD" tvg-id="UK: SKY CINEMA DISNEY" group-title="UK SKY MOVIES",UK: Sky Cinema Disney | HD
+http://cdn1.premiumspeed.tech/live/1380?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama | HD" tvg-id="UK: SKY CINEMA DRAMA" group-title="UK SKY MOVIES",UK: Sky Cinema Drama | HD
+http://cdn1.premiumspeed.tech/live/1385?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama | SD" tvg-id="UK: SKY CINEMA DRAMA" group-title="UK SKY MOVIES",UK: Sky Cinema Drama | SD
+http://cdn1.premiumspeed.tech/live/11724?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama & Romance | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Drama & Romance | HD
+http://cdn1.premiumspeed.tech/live/1401?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family | HD" tvg-id="UK: SKY CINEMA FAMILY" group-title="UK SKY MOVIES",UK: Sky Cinema Family | HD
+http://cdn1.premiumspeed.tech/live/1381?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family | SD" tvg-id="UK: SKY CINEMA FAMILY" group-title="UK SKY MOVIES",UK: Sky Cinema Family | SD
+http://cdn1.premiumspeed.tech/live/11725?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Greats | HD" tvg-id="UK: SKY CINEMA GREATS" group-title="UK SKY MOVIES",UK: Sky Cinema Greats | HD
+http://cdn1.premiumspeed.tech/live/1379?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Hits | HD" tvg-id="UK: SKY CINEMA HITS" group-title="UK SKY MOVIES",UK: Sky Cinema Hits | HD
+http://cdn1.premiumspeed.tech/live/1378?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premiere | HD" tvg-id="UK: SKY CINEMA PREMIERE" group-title="UK SKY MOVIES",UK: Sky Cinema Premiere | HD
+http://cdn1.premiumspeed.tech/live/1377?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premier +1 | SD" tvg-id="UK: SKY CINEMA PREMIERE +1" group-title="UK SKY MOVIES",UK: Sky Cinema Premier +1 | SD
+http://cdn1.premiumspeed.tech/live/1388?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: BLACKED | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: BLACKED | HD
+http://cdn1.premiumspeed.tech/live/11121?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: BANGBROS | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: BANGBROS | HD
+http://cdn1.premiumspeed.tech/live/11122?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: BANGBROS 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: BANGBROS 2 | HD
+http://cdn1.premiumspeed.tech/live/11123?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: BLACKED 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: BLACKED 2 | HD
+http://cdn1.premiumspeed.tech/live/11124?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: CREAMPIE | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: CREAMPIE | HD
+http://cdn1.premiumspeed.tech/live/11125?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: CREAMPIE 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: CREAMPIE 2 | HD
+http://cdn1.premiumspeed.tech/live/11126?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: DOUBLE DIP | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: DOUBLE DIP | HD
+http://cdn1.premiumspeed.tech/live/11156?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: DOUBLE DIP 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: DOUBLE DIP 2 | HD
+http://cdn1.premiumspeed.tech/live/11157?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: FAMILY STROKES | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: FAMILY STROKES | HD
+http://cdn1.premiumspeed.tech/live/11158?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS:  GIRLS GONE WILD | HD" tvg-id="" group-title="XXX",XXX SINSATIONS:  GIRLS GONE WILD | HD
+http://cdn1.premiumspeed.tech/live/11127?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: GIRLS GONE WILD 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: GIRLS GONE WILD 2 | HD
+http://cdn1.premiumspeed.tech/live/11128?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: MOFOS | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: MOFOS | HD
+http://cdn1.premiumspeed.tech/live/11129?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: MOFOS 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: MOFOS 2 | HD
+http://cdn1.premiumspeed.tech/live/11130?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: NETWORK 2 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: NETWORK 2 | HD
+http://cdn1.premiumspeed.tech/live/11160?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: NETWORK 1 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: NETWORK 1 | HD
+http://cdn1.premiumspeed.tech/live/11161?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: NETWORK 3 | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: NETWORK 3 | HD
+http://cdn1.premiumspeed.tech/live/11162?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: ULTIMATE SURRENDER | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: ULTIMATE SURRENDER | HD
+http://cdn1.premiumspeed.tech/live/11155?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX SINSATIONS: XTRASMALL | HD" tvg-id="" group-title="XXX",XXX SINSATIONS: XTRASMALL | HD
+http://cdn1.premiumspeed.tech/live/11159?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Шалун TV" tvg-id="" group-title="XXX",XXX: Шалун TV
+http://cdn3.premiumspeed.tech/live/3333?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Zest TV" tvg-id="" group-title="XXX",XXX: Zest TV
+http://cdn3.premiumspeed.tech/live/70776?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: YOU PORN HD" tvg-id="" group-title="XXX",XXX: YOU PORN HD
+http://cdn3.premiumspeed.tech/live/60336?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XY PLUS FHD" tvg-id="" group-title="XXX",XXX: XY PLUS FHD
+http://cdn3.premiumspeed.tech/live/64695?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XY Mix HD" tvg-id="" group-title="XXX",XXX: XY Mix HD
+http://cdn3.premiumspeed.tech/live/70767?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XY Max HD" tvg-id="" group-title="XXX",XXX: XY Max HD
+http://cdn3.premiumspeed.tech/live/3292?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXX 6" tvg-id="" group-title="XXX",XXX: XXX 6
+http://cdn3.premiumspeed.tech/live/28216?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXX 5" tvg-id="" group-title="XXX",XXX: XXX 5
+http://cdn3.premiumspeed.tech/live/37120?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXL3 HD" tvg-id="" group-title="XXX",XXX: XXL3 HD
+http://cdn3.premiumspeed.tech/live/69956?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXL2 HD" tvg-id="" group-title="XXX",XXX: XXL2 HD
+http://cdn3.premiumspeed.tech/live/69955?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXL1 HD" tvg-id="" group-title="XXX",XXX: XXL1 HD
+http://cdn3.premiumspeed.tech/live/69954?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXL" tvg-id="" group-title="XXX",XXX: XXL
+http://cdn3.premiumspeed.tech/live/3298?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XXL" tvg-id="" group-title="XXX",XXX: XXL
+http://cdn3.premiumspeed.tech/live/69953?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: XTRASMALL HD" tvg-id="" group-title="XXX",XXX: XTRASMALL HD
+http://cdn3.premiumspeed.tech/live/66120?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X1" tvg-id="" group-title="XXX",XXX: X1
+http://cdn3.premiumspeed.tech/live/3312?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X-MO Gay Men" tvg-id="" group-title="XXX",XXX: X-MO Gay Men
+http://cdn3.premiumspeed.tech/live/70782?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X-MO GAY" tvg-id="" group-title="XXX",XXX: X-MO GAY
+http://cdn3.premiumspeed.tech/live/49188?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X Desire" tvg-id="" group-title="XXX",XXX: X Desire
+http://cdn3.premiumspeed.tech/live/3791?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X Bunga Bunga" tvg-id="" group-title="XXX",XXX: X Bunga Bunga
+http://cdn3.premiumspeed.tech/live/3315?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: X BIZARRE" tvg-id="" group-title="XXX",XXX: X BIZARRE
+http://cdn3.premiumspeed.tech/live/3313?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Vivid TV Europe" tvg-id="" group-title="XXX",XXX: Vivid TV Europe
+http://cdn3.premiumspeed.tech/live/3295?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Vivid Touch" tvg-id="" group-title="XXX",XXX: Vivid Touch
+http://cdn3.premiumspeed.tech/live/21378?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIVID RED HD" tvg-id="" group-title="XXX",XXX: VIVID RED HD
+http://cdn3.premiumspeed.tech/live/3989?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIVID RED" tvg-id="" group-title="XXX",XXX: VIVID RED
+http://cdn3.premiumspeed.tech/live/84834?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VISIT X TV HD" tvg-id="" group-title="XXX",XXX: VISIT X TV HD
+http://cdn3.premiumspeed.tech/live/69945?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VISIT X" tvg-id="" group-title="XXX",XXX: VISIT X
+http://cdn3.premiumspeed.tech/live/28531?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO PINKO" tvg-id="" group-title="XXX",XXX: VIDEO PINKO
+http://cdn3.premiumspeed.tech/live/55547?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO PASSION" tvg-id="" group-title="XXX",XXX: VIDEO PASSION
+http://cdn3.premiumspeed.tech/live/53196?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO MOFOS" tvg-id="" group-title="XXX",XXX: VIDEO MOFOS
+http://cdn3.premiumspeed.tech/live/37312?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO HOT MiX 29" tvg-id="" group-title="XXX",XXX: VIDEO HOT MiX 29
+http://cdn3.premiumspeed.tech/live/36592?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO HOT MiX 23" tvg-id="" group-title="XXX",XXX: VIDEO HOT MiX 23
+http://cdn3.premiumspeed.tech/live/44342?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO HOT MiX 18" tvg-id="" group-title="XXX",XXX: VIDEO HOT MiX 18
+http://cdn3.premiumspeed.tech/live/39512?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO HOT CLUB 2" tvg-id="" group-title="XXX",XXX: VIDEO HOT CLUB 2
+http://cdn3.premiumspeed.tech/live/53195?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO FAP TV 4" tvg-id="" group-title="XXX",XXX: VIDEO FAP TV 4
+http://cdn3.premiumspeed.tech/live/67690?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO FAP TV 3" tvg-id="" group-title="XXX",XXX: VIDEO FAP TV 3
+http://cdn3.premiumspeed.tech/live/67689?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO FAP TV 2" tvg-id="" group-title="XXX",XXX: VIDEO FAP TV 2
+http://cdn3.premiumspeed.tech/live/60383?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO FAKEAGENT 128" tvg-id="" group-title="XXX",XXX: VIDEO FAKEAGENT 128
+http://cdn3.premiumspeed.tech/live/3808?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO FAKEAGENT 123" tvg-id="" group-title="XXX",XXX: VIDEO FAKEAGENT 123
+http://cdn3.premiumspeed.tech/live/11606?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO DDF" tvg-id="" group-title="XXX",XXX: VIDEO DDF
+http://cdn3.premiumspeed.tech/live/53199?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO Como" tvg-id="" group-title="XXX",XXX: VIDEO Como
+http://cdn3.premiumspeed.tech/live/55201?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO Comendo" tvg-id="" group-title="XXX",XXX: VIDEO Comendo
+http://cdn3.premiumspeed.tech/live/55199?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO Chupando" tvg-id="" group-title="XXX",XXX: VIDEO Chupando
+http://cdn3.premiumspeed.tech/live/55195?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO AST TV1" tvg-id="" group-title="XXX",XXX: VIDEO AST TV1
+http://cdn3.premiumspeed.tech/live/53198?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO AST TV 2" tvg-id="" group-title="XXX",XXX: VIDEO AST TV 2
+http://cdn3.premiumspeed.tech/live/52986?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO ASS" tvg-id="" group-title="XXX",XXX: VIDEO ASS
+http://cdn3.premiumspeed.tech/live/55558?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO ART" tvg-id="" group-title="XXX",XXX: VIDEO ART
+http://cdn3.premiumspeed.tech/live/37298?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO AMATEUR" tvg-id="" group-title="XXX",XXX: VIDEO AMATEUR
+http://cdn3.premiumspeed.tech/live/28534?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO ADULT 7" tvg-id="" group-title="XXX",XXX: VIDEO ADULT 7
+http://cdn3.premiumspeed.tech/live/53185?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 981" tvg-id="" group-title="XXX",XXX: VIDEO 981
+http://cdn3.premiumspeed.tech/live/40009?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 928" tvg-id="" group-title="XXX",XXX: VIDEO 928
+http://cdn3.premiumspeed.tech/live/55540?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 927" tvg-id="" group-title="XXX",XXX: VIDEO 927
+http://cdn3.premiumspeed.tech/live/55539?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 200b" tvg-id="" group-title="XXX",XXX: VIDEO 200b
+http://cdn3.premiumspeed.tech/live/55534?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 133" tvg-id="" group-title="XXX",XXX: VIDEO 133
+http://cdn3.premiumspeed.tech/live/31282?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 1302" tvg-id="" group-title="XXX",XXX: VIDEO 1302
+http://cdn3.premiumspeed.tech/live/38221?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 1301" tvg-id="" group-title="XXX",XXX: VIDEO 1301
+http://cdn3.premiumspeed.tech/live/55536?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 105" tvg-id="" group-title="XXX",XXX: VIDEO 105
+http://cdn3.premiumspeed.tech/live/37292?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 104" tvg-id="" group-title="XXX",XXX: VIDEO 104
+http://cdn3.premiumspeed.tech/live/37321?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 098" tvg-id="" group-title="XXX",XXX: VIDEO 098
+http://cdn3.premiumspeed.tech/live/37309?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 096" tvg-id="" group-title="XXX",XXX: VIDEO 096
+http://cdn3.premiumspeed.tech/live/31281?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 069" tvg-id="" group-title="XXX",XXX: VIDEO 069
+http://cdn3.premiumspeed.tech/live/37276?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 063" tvg-id="" group-title="XXX",XXX: VIDEO 063
+http://cdn3.premiumspeed.tech/live/22448?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 055" tvg-id="" group-title="XXX",XXX: VIDEO 055
+http://cdn3.premiumspeed.tech/live/32061?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 052" tvg-id="" group-title="XXX",XXX: VIDEO 052
+http://cdn3.premiumspeed.tech/live/32080?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 050" tvg-id="" group-title="XXX",XXX: VIDEO 050
+http://cdn3.premiumspeed.tech/live/32071?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 050" tvg-id="" group-title="XXX",XXX: VIDEO 050
+http://cdn3.premiumspeed.tech/live/32075?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 049" tvg-id="" group-title="XXX",XXX: VIDEO 049
+http://cdn3.premiumspeed.tech/live/32070?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 045" tvg-id="" group-title="XXX",XXX: VIDEO 045
+http://cdn3.premiumspeed.tech/live/36591?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 006" tvg-id="" group-title="XXX",XXX: VIDEO 006
+http://cdn3.premiumspeed.tech/live/10537?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VIDEO 003" tvg-id="" group-title="XXX",XXX: VIDEO 003
+http://cdn3.premiumspeed.tech/live/36426?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Venus TV" tvg-id="" group-title="XXX",XXX: Venus TV
+http://cdn3.premiumspeed.tech/live/3258?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: VENUS" tvg-id="" group-title="XXX",XXX: VENUS
+http://cdn3.premiumspeed.tech/live/37121?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ULTIMATE SURRENDER HD" tvg-id="" group-title="XXX",XXX: ULTIMATE SURRENDER HD
+http://cdn3.premiumspeed.tech/live/66116?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TRANS XXX HD" tvg-id="" group-title="XXX",XXX: TRANS XXX HD
+http://cdn3.premiumspeed.tech/live/63806?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TRANS 1" tvg-id="" group-title="XXX",XXX: TRANS 1
+http://cdn3.premiumspeed.tech/live/77231?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TRANS 001" tvg-id="" group-title="XXX",XXX: TRANS 001
+http://cdn3.premiumspeed.tech/live/37277?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TRANS" tvg-id="" group-title="XXX",XXX: TRANS
+http://cdn3.premiumspeed.tech/live/53201?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Threesome" tvg-id="" group-title="XXX",XXX: Threesome
+http://cdn3.premiumspeed.tech/live/60989?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TEENS 5" tvg-id="" group-title="XXX",XXX: TEENS 5
+http://cdn3.premiumspeed.tech/live/72908?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TEENS 4" tvg-id="" group-title="XXX",XXX: TEENS 4
+http://cdn3.premiumspeed.tech/live/72910?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TEENS 3" tvg-id="" group-title="XXX",XXX: TEENS 3
+http://cdn3.premiumspeed.tech/live/72905?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TEENS 2" tvg-id="" group-title="XXX",XXX: TEENS 2
+http://cdn3.premiumspeed.tech/live/72903?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TEENS 1" tvg-id="" group-title="XXX",XXX: TEENS 1
+http://cdn3.premiumspeed.tech/live/72904?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Teen" tvg-id="" group-title="XXX",XXX: Teen
+http://cdn3.premiumspeed.tech/live/60988?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: TABOO" tvg-id="" group-title="XXX",XXX: TABOO
+http://cdn3.premiumspeed.tech/live/3321?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Super One HD" tvg-id="" group-title="XXX",XXX: Super One HD
+http://cdn3.premiumspeed.tech/live/3286?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SUPER ONE" tvg-id="" group-title="XXX",XXX: SUPER ONE
+http://cdn3.premiumspeed.tech/live/5548?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: STARS XXX HD" tvg-id="" group-title="XXX",XXX: STARS XXX HD
+http://cdn3.premiumspeed.tech/live/37107?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: STARS HD" tvg-id="" group-title="XXX",XXX: STARS HD
+http://cdn3.premiumspeed.tech/live/15844?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: STAR" tvg-id="" group-title="XXX",XXX: STAR
+http://cdn3.premiumspeed.tech/live/63805?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SL HOT HD 9" tvg-id="" group-title="XXX",XXX: SL HOT HD 9
+http://cdn3.premiumspeed.tech/live/10540?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SL HOT HD 4" tvg-id="" group-title="XXX",XXX: SL HOT HD 4
+http://cdn3.premiumspeed.tech/live/66389?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SIRINA" tvg-id="" group-title="XXX",XXX: SIRINA
+http://cdn3.premiumspeed.tech/live/55543?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Shemale Tube TV" tvg-id="" group-title="XXX",XXX: Shemale Tube TV
+http://cdn3.premiumspeed.tech/live/61005?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SHALUN TV" tvg-id="" group-title="XXX",XXX: SHALUN TV
+http://cdn3.premiumspeed.tech/live/37324?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Sexy HOT" tvg-id="" group-title="XXX",XXX: Sexy HOT
+http://cdn3.premiumspeed.tech/live/3310?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SEXTREME" tvg-id="" group-title="XXX",XXX: SEXTREME
+http://cdn3.premiumspeed.tech/live/3309?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SEXT & SENSO TV" tvg-id="" group-title="XXX",XXX: SEXT & SENSO TV
+http://cdn3.premiumspeed.tech/live/36539?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SEXATION HD" tvg-id="" group-title="XXX",XXX: SEXATION HD
+http://cdn3.premiumspeed.tech/live/5527?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Sex to Senso" tvg-id="" group-title="XXX",XXX: Sex to Senso
+http://cdn3.premiumspeed.tech/live/69957?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SEX ATION HD" tvg-id="" group-title="XXX",XXX: SEX ATION HD
+http://cdn3.premiumspeed.tech/live/3290?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Secret Circle TV" tvg-id="" group-title="XXX",XXX: Secret Circle TV
+http://cdn3.premiumspeed.tech/live/3342?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SCT HD" tvg-id="" group-title="XXX",XXX: SCT HD
+http://cdn3.premiumspeed.tech/live/3810?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: SCT" tvg-id="" group-title="XXX",XXX: SCT
+http://cdn3.premiumspeed.tech/live/71?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: RUSSIAN NIGHT" tvg-id="" group-title="XXX",XXX: RUSSIAN NIGHT
+http://cdn3.premiumspeed.tech/live/49168?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Russian HD" tvg-id="" group-title="XXX",XXX: Russian HD
+http://cdn3.premiumspeed.tech/live/61703?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Russian" tvg-id="" group-title="XXX",XXX: Russian
+http://cdn3.premiumspeed.tech/live/60987?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: RT NEWS UK" tvg-id="" group-title="XXX",XXX: RT NEWS UK
+http://cdn3.premiumspeed.tech/live/67691?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Rough" tvg-id="" group-title="XXX",XXX: Rough
+http://cdn3.premiumspeed.tech/live/60995?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: REDTRAFFIC THREESOME" tvg-id="" group-title="XXX",XXX: REDTRAFFIC THREESOME
+http://cdn3.premiumspeed.tech/live/63800?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: REDTRAFFIC TEEN" tvg-id="" group-title="XXX",XXX: REDTRAFFIC TEEN
+http://cdn3.premiumspeed.tech/live/63801?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: RedTraffic Lesbian" tvg-id="" group-title="XXX",XXX: RedTraffic Lesbian
+http://cdn3.premiumspeed.tech/live/75504?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: RedTraffic Big Ass" tvg-id="" group-title="XXX",XXX: RedTraffic Big Ass
+http://cdn3.premiumspeed.tech/live/75502?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Redlight Tv" tvg-id="" group-title="XXX",XXX: Redlight Tv
+http://cdn3.premiumspeed.tech/live/69766?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: REDLIGHT HD" tvg-id="" group-title="XXX",XXX: REDLIGHT HD
+http://cdn3.premiumspeed.tech/live/39360?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: REDLIGHT FHD" tvg-id="" group-title="XXX",XXX: REDLIGHT FHD
+http://cdn3.premiumspeed.tech/live/359?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Redlight" tvg-id="" group-title="XXX",XXX: Redlight
+http://cdn3.premiumspeed.tech/live/60584?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Red XXX HD" tvg-id="" group-title="XXX",XXX: Red XXX HD
+http://cdn3.premiumspeed.tech/live/3328?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Red" tvg-id="" group-title="XXX",XXX: Red
+http://cdn3.premiumspeed.tech/live/67705?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: REALTY KINGS" tvg-id="" group-title="XXX",XXX: REALTY KINGS
+http://cdn3.premiumspeed.tech/live/77230?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Reality Kings TV" tvg-id="" group-title="XXX",XXX: Reality Kings TV
+http://cdn3.premiumspeed.tech/live/383?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PUNKO TGRIL HD" tvg-id="" group-title="XXX",XXX: PUNKO TGRIL HD
+http://cdn3.premiumspeed.tech/live/67707?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Privé TV" tvg-id="" group-title="XXX",XXX: Privé TV
+http://cdn3.premiumspeed.tech/live/60582?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Prive" tvg-id="" group-title="XXX",XXX: Prive
+http://cdn3.premiumspeed.tech/live/56?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Private FHD" tvg-id="" group-title="XXX",XXX: Private FHD
+http://cdn3.premiumspeed.tech/live/8267?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PRIVATE" tvg-id="" group-title="XXX",XXX: PRIVATE
+http://cdn3.premiumspeed.tech/live/67685?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Primafila Hot Club 6 HD" tvg-id="" group-title="XXX",XXX: Primafila Hot Club 6 HD
+http://cdn3.premiumspeed.tech/live/72895?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Primafila Hot Club 5 HD" tvg-id="" group-title="XXX",XXX: Primafila Hot Club 5 HD
+http://cdn3.premiumspeed.tech/live/72896?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Primafila Hot Club 4 HD" tvg-id="" group-title="XXX",XXX: Primafila Hot Club 4 HD
+http://cdn3.premiumspeed.tech/live/72894?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: POV" tvg-id="" group-title="XXX",XXX: POV
+http://cdn3.premiumspeed.tech/live/60985?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Pornstar" tvg-id="" group-title="XXX",XXX: Pornstar
+http://cdn3.premiumspeed.tech/live/60986?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Playhouse" tvg-id="" group-title="XXX",XXX: Playhouse
+http://cdn3.premiumspeed.tech/live/67704?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PLAYBOY HD" tvg-id="" group-title="XXX",XXX: PLAYBOY HD
+http://cdn3.premiumspeed.tech/live/28563?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Playboy" tvg-id="" group-title="XXX",XXX: Playboy
+http://cdn3.premiumspeed.tech/live/70841?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PLAY HOUSE" tvg-id="" group-title="XXX",XXX: PLAY HOUSE
+http://cdn3.premiumspeed.tech/live/3325?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Platinum" tvg-id="" group-title="XXX",XXX: Platinum
+http://cdn3.premiumspeed.tech/live/3796?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PINKO TV" tvg-id="" group-title="XXX",XXX: PINKO TV
+http://cdn3.premiumspeed.tech/live/5814?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PINK O TV" tvg-id="" group-title="XXX",XXX: PINK O TV
+http://cdn3.premiumspeed.tech/live/3301?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PENTHOUSE PASSION" tvg-id="" group-title="XXX",XXX: PENTHOUSE PASSION
+http://cdn3.premiumspeed.tech/live/67710?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PENTHOUSE HD" tvg-id="" group-title="XXX",XXX: PENTHOUSE HD
+http://cdn3.premiumspeed.tech/live/1540?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PENTHOUSE Gold" tvg-id="" group-title="XXX",XXX: PENTHOUSE Gold
+http://cdn3.premiumspeed.tech/live/32056?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PENTHOUSE Black" tvg-id="" group-title="XXX",XXX: PENTHOUSE Black
+http://cdn3.premiumspeed.tech/live/55207?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PASSION TV" tvg-id="" group-title="XXX",XXX: PASSION TV
+http://cdn3.premiumspeed.tech/live/28533?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PASSION" tvg-id="" group-title="XXX",XXX: PASSION
+http://cdn3.premiumspeed.tech/live/61702?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PASSIEXXX LESBISCH" tvg-id="" group-title="XXX",XXX: PASSIEXXX LESBISCH
+http://cdn3.premiumspeed.tech/live/37113?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: PASSIE XXX HD" tvg-id="" group-title="XXX",XXX: PASSIE XXX HD
+http://cdn3.premiumspeed.tech/live/28298?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Passie" tvg-id="" group-title="XXX",XXX: Passie
+http://cdn3.premiumspeed.tech/live/3299?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: OX-AH HD" tvg-id="" group-title="XXX",XXX: OX-AH HD
+http://cdn3.premiumspeed.tech/live/49172?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: OLDTIMER" tvg-id="" group-title="XXX",XXX: OLDTIMER
+http://cdn3.premiumspeed.tech/live/3322?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: O.La.La TV" tvg-id="" group-title="XXX",XXX: O.La.La TV
+http://cdn3.premiumspeed.tech/live/36535?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: NYX Media 1" tvg-id="" group-title="XXX",XXX: NYX Media 1
+http://cdn3.premiumspeed.tech/live/63799?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: NUART" tvg-id="" group-title="XXX",XXX: NUART
+http://cdn3.premiumspeed.tech/live/49169?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Nice one" tvg-id="" group-title="XXX",XXX: Nice one
+http://cdn3.premiumspeed.tech/live/10535?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: NETWORK 3 HD" tvg-id="" group-title="XXX",XXX: NETWORK 3 HD
+http://cdn3.premiumspeed.tech/live/66114?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: NETWORK 2 HD" tvg-id="" group-title="XXX",XXX: NETWORK 2 HD
+http://cdn3.premiumspeed.tech/live/66113?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: NETWORK 1 HD" tvg-id="" group-title="XXX",XXX: NETWORK 1 HD
+http://cdn3.premiumspeed.tech/live/66122?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: net XX" tvg-id="" group-title="XXX",XXX: net XX
+http://cdn3.premiumspeed.tech/live/3324?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Threesome" tvg-id="" group-title="XXX",XXX: mycams - Threesome
+http://cdn3.premiumspeed.tech/live/37281?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Teen HD" tvg-id="" group-title="XXX",XXX: mycams - Teen HD
+http://cdn3.premiumspeed.tech/live/15763?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Russian HD" tvg-id="" group-title="XXX",XXX: mycams - Russian HD
+http://cdn3.premiumspeed.tech/live/15757?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - POV" tvg-id="" group-title="XXX",XXX: mycams - POV
+http://cdn3.premiumspeed.tech/live/37294?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Pornstar HD" tvg-id="" group-title="XXX",XXX: mycams - Pornstar HD
+http://cdn3.premiumspeed.tech/live/15755?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - MILF" tvg-id="" group-title="XXX",XXX: mycams - MILF
+http://cdn3.premiumspeed.tech/live/11631?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Lesbian" tvg-id="" group-title="XXX",XXX: mycams - Lesbian
+http://cdn3.premiumspeed.tech/live/52993?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Latina Red Hair" tvg-id="" group-title="XXX",XXX: mycams - Latina Red Hair
+http://cdn3.premiumspeed.tech/live/10542?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Latina" tvg-id="" group-title="XXX",XXX: mycams - Latina
+http://cdn3.premiumspeed.tech/live/52985?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Interracial" tvg-id="" group-title="XXX",XXX: mycams - Interracial
+http://cdn3.premiumspeed.tech/live/52996?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Hardcore" tvg-id="" group-title="XXX",XXX: mycams - Hardcore
+http://cdn3.premiumspeed.tech/live/371?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Gay Man" tvg-id="" group-title="XXX",XXX: mycams - Gay Man
+http://cdn3.premiumspeed.tech/live/49205?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Gangbang" tvg-id="" group-title="XXX",XXX: mycams - Gangbang
+http://cdn3.premiumspeed.tech/live/49204?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Fetish" tvg-id="" group-title="XXX",XXX: mycams - Fetish
+http://cdn3.premiumspeed.tech/live/363?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Cuckold" tvg-id="" group-title="XXX",XXX: mycams - Cuckold
+http://cdn3.premiumspeed.tech/live/52971?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Compilation" tvg-id="" group-title="XXX",XXX: mycams - Compilation
+http://cdn3.premiumspeed.tech/live/49201?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Brunette" tvg-id="" group-title="XXX",XXX: mycams - Brunette
+http://cdn3.premiumspeed.tech/live/54785?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Blowjob" tvg-id="" group-title="XXX",XXX: mycams - Blowjob
+http://cdn3.premiumspeed.tech/live/52987?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Blonde" tvg-id="" group-title="XXX",XXX: mycams - Blonde
+http://cdn3.premiumspeed.tech/live/37308?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Big Tits" tvg-id="" group-title="XXX",XXX: mycams - Big Tits
+http://cdn3.premiumspeed.tech/live/52975?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Big Dick" tvg-id="" group-title="XXX",XXX: mycams - Big Dick
+http://cdn3.premiumspeed.tech/live/52973?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Big Ass" tvg-id="" group-title="XXX",XXX: mycams - Big Ass
+http://cdn3.premiumspeed.tech/live/52982?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: mycams - Anal" tvg-id="" group-title="XXX",XXX: mycams - Anal
+http://cdn3.premiumspeed.tech/live/49195?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MOFOS HD" tvg-id="" group-title="XXX",XXX: MOFOS HD
+http://cdn3.premiumspeed.tech/live/66118?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MOFOS 2 HD" tvg-id="" group-title="XXX",XXX: MOFOS 2 HD
+http://cdn3.premiumspeed.tech/live/66111?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Milf TV" tvg-id="" group-title="XXX",XXX: Milf TV
+http://cdn3.premiumspeed.tech/live/3327?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MILF" tvg-id="" group-title="XXX",XXX: MILF
+http://cdn3.premiumspeed.tech/live/60984?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MIA KHALIFA HD" tvg-id="" group-title="XXX",XXX: MIA KHALIFA HD
+http://cdn3.premiumspeed.tech/live/60341?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MIA KHALIFA FHD" tvg-id="" group-title="XXX",XXX: MIA KHALIFA FHD
+http://cdn3.premiumspeed.tech/live/64690?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Meiden Van Holland Hard" tvg-id="" group-title="XXX",XXX: Meiden Van Holland Hard
+http://cdn3.premiumspeed.tech/live/3311?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX RUSSIAN" tvg-id="" group-title="XXX",XXX: MAX RUSSIAN
+http://cdn3.premiumspeed.tech/live/60345?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX MILF" tvg-id="" group-title="XXX",XXX: MAX MILF
+http://cdn3.premiumspeed.tech/live/60343?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX LIVE CAMS" tvg-id="" group-title="XXX",XXX: MAX LIVE CAMS
+http://cdn3.premiumspeed.tech/live/60346?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX LESBIAN Channel" tvg-id="" group-title="XXX",XXX: MAX LESBIAN Channel
+http://cdn3.premiumspeed.tech/live/60342?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX INTERRACIAL" tvg-id="" group-title="XXX",XXX: MAX INTERRACIAL
+http://cdn3.premiumspeed.tech/live/60340?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX HARDCORE" tvg-id="" group-title="XXX",XXX: MAX HARDCORE
+http://cdn3.premiumspeed.tech/live/60339?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX GANGBANG" tvg-id="" group-title="XXX",XXX: MAX GANGBANG
+http://cdn3.premiumspeed.tech/live/60338?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX FETISH" tvg-id="" group-title="XXX",XXX: MAX FETISH
+http://cdn3.premiumspeed.tech/live/60333?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX COMPILATION" tvg-id="" group-title="XXX",XXX: MAX COMPILATION
+http://cdn3.premiumspeed.tech/live/60337?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX BRUNETTE" tvg-id="" group-title="XXX",XXX: MAX BRUNETTE
+http://cdn3.premiumspeed.tech/live/60332?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX BLOWJOB" tvg-id="" group-title="XXX",XXX: MAX BLOWJOB
+http://cdn3.premiumspeed.tech/live/60334?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX BLONDE" tvg-id="" group-title="XXX",XXX: MAX BLONDE
+http://cdn3.premiumspeed.tech/live/60330?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX BIG TITS" tvg-id="" group-title="XXX",XXX: MAX BIG TITS
+http://cdn3.premiumspeed.tech/live/84837?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX BIG DICK" tvg-id="" group-title="XXX",XXX: MAX BIG DICK
+http://cdn3.premiumspeed.tech/live/60328?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MAX ANAL" tvg-id="" group-title="XXX",XXX: MAX ANAL
+http://cdn3.premiumspeed.tech/live/60327?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MATURE 3" tvg-id="" group-title="XXX",XXX: MATURE 3
+http://cdn3.premiumspeed.tech/live/72902?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MATURE 2" tvg-id="" group-title="XXX",XXX: MATURE 2
+http://cdn3.premiumspeed.tech/live/72899?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: MATURE 1" tvg-id="" group-title="XXX",XXX: MATURE 1
+http://cdn3.premiumspeed.tech/live/72900?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Man-X Gay Men" tvg-id="" group-title="XXX",XXX: Man-X Gay Men
+http://cdn3.premiumspeed.tech/live/70781?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LUST CINEMA" tvg-id="" group-title="XXX",XXX: LUST CINEMA
+http://cdn3.premiumspeed.tech/live/37306?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Live Cams" tvg-id="" group-title="XXX",XXX: Live Cams
+http://cdn3.premiumspeed.tech/live/61705?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LIUX TV HD" tvg-id="" group-title="XXX",XXX: LIUX TV HD
+http://cdn3.premiumspeed.tech/live/55193?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Libido TV" tvg-id="" group-title="XXX",XXX: Libido TV
+http://cdn3.premiumspeed.tech/live/70780?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Lesbian Affair" tvg-id="" group-title="XXX",XXX: Lesbian Affair
+http://cdn3.premiumspeed.tech/live/3331?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LESBIAN 3" tvg-id="" group-title="XXX",XXX: LESBIAN 3
+http://cdn3.premiumspeed.tech/live/72906?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LESBIAN 2" tvg-id="" group-title="XXX",XXX: LESBIAN 2
+http://cdn3.premiumspeed.tech/live/72912?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LESBIAN 1" tvg-id="" group-title="XXX",XXX: LESBIAN 1
+http://cdn3.premiumspeed.tech/live/77232?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Lesbian" tvg-id="" group-title="XXX",XXX: Lesbian
+http://cdn3.premiumspeed.tech/live/60983?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Leo TV" tvg-id="" group-title="XXX",XXX: Leo TV
+http://cdn3.premiumspeed.tech/live/3347?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: LEGAL PORNO HD" tvg-id="" group-title="XXX",XXX: LEGAL PORNO HD
+http://cdn3.premiumspeed.tech/live/60319?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Latina" tvg-id="" group-title="XXX",XXX: Latina
+http://cdn3.premiumspeed.tech/live/60982?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: JASMIN.TV" tvg-id="" group-title="XXX",XXX: JASMIN.TV
+http://cdn3.premiumspeed.tech/live/77698?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: JASMIN TV HD" tvg-id="" group-title="XXX",XXX: JASMIN TV HD
+http://cdn3.premiumspeed.tech/live/375?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: JASMIN TV" tvg-id="" group-title="XXX",XXX: JASMIN TV
+http://cdn3.premiumspeed.tech/live/84832?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Interracial" tvg-id="" group-title="XXX",XXX: Interracial
+http://cdn3.premiumspeed.tech/live/60981?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HUSTLER" tvg-id="" group-title="XXX",XXX: HUSTLER
+http://cdn3.premiumspeed.tech/live/63804?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOTGIRLS" tvg-id="" group-title="XXX",XXX: HOTGIRLS
+http://cdn3.premiumspeed.tech/live/31279?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOTCLUB" tvg-id="" group-title="XXX",XXX: HOTCLUB
+http://cdn3.premiumspeed.tech/live/77697?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT-CLUB 4" tvg-id="" group-title="XXX",XXX: HOT-CLUB 4
+http://cdn3.premiumspeed.tech/live/75724?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT-CLUB 3" tvg-id="" group-title="XXX",XXX: HOT-CLUB 3
+http://cdn3.premiumspeed.tech/live/75731?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot TV" tvg-id="" group-title="XXX",XXX: Hot TV
+http://cdn3.premiumspeed.tech/live/3308?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Pleasure" tvg-id="" group-title="XXX",XXX: Hot Pleasure
+http://cdn3.premiumspeed.tech/live/3326?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT PLEASURE" tvg-id="" group-title="XXX",XXX: HOT PLEASURE
+http://cdn3.premiumspeed.tech/live/69948?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 50" tvg-id="" group-title="XXX",XXX: HOT MiX 50
+http://cdn3.premiumspeed.tech/live/64705?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 49" tvg-id="" group-title="XXX",XXX: HOT MiX 49
+http://cdn3.premiumspeed.tech/live/64704?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 48" tvg-id="" group-title="XXX",XXX: HOT MiX 48
+http://cdn3.premiumspeed.tech/live/44343?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 47" tvg-id="" group-title="XXX",XXX: HOT MiX 47
+http://cdn3.premiumspeed.tech/live/64706?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 46" tvg-id="" group-title="XXX",XXX: HOT MiX 46
+http://cdn3.premiumspeed.tech/live/64703?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 44" tvg-id="" group-title="XXX",XXX: HOT MiX 44
+http://cdn3.premiumspeed.tech/live/64702?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 42" tvg-id="" group-title="XXX",XXX: HOT MiX 42
+http://cdn3.premiumspeed.tech/live/37118?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 40" tvg-id="" group-title="XXX",XXX: HOT MiX 40
+http://cdn3.premiumspeed.tech/live/64699?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 39" tvg-id="" group-title="XXX",XXX: HOT MiX 39
+http://cdn3.premiumspeed.tech/live/64700?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 38" tvg-id="" group-title="XXX",XXX: HOT MiX 38
+http://cdn3.premiumspeed.tech/live/59621?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 36" tvg-id="" group-title="XXX",XXX: HOT MiX 36
+http://cdn3.premiumspeed.tech/live/64698?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 35" tvg-id="" group-title="XXX",XXX: HOT MiX 35
+http://cdn3.premiumspeed.tech/live/36601?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 34" tvg-id="" group-title="XXX",XXX: HOT MiX 34
+http://cdn3.premiumspeed.tech/live/59631?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 33" tvg-id="" group-title="XXX",XXX: HOT MiX 33
+http://cdn3.premiumspeed.tech/live/64696?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 32" tvg-id="" group-title="XXX",XXX: HOT MiX 32
+http://cdn3.premiumspeed.tech/live/59622?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 31" tvg-id="" group-title="XXX",XXX: HOT MiX 31
+http://cdn3.premiumspeed.tech/live/72654?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 30" tvg-id="" group-title="XXX",XXX: HOT MiX 30
+http://cdn3.premiumspeed.tech/live/37117?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 29" tvg-id="" group-title="XXX",XXX: HOT MiX 29
+http://cdn3.premiumspeed.tech/live/64694?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 28" tvg-id="" group-title="XXX",XXX: HOT MiX 28
+http://cdn3.premiumspeed.tech/live/64692?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 26" tvg-id="" group-title="XXX",XXX: HOT MiX 26
+http://cdn3.premiumspeed.tech/live/44355?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 24" tvg-id="" group-title="XXX",XXX: HOT MiX 24
+http://cdn3.premiumspeed.tech/live/72645?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 23" tvg-id="" group-title="XXX",XXX: HOT MiX 23
+http://cdn3.premiumspeed.tech/live/64688?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 22" tvg-id="" group-title="XXX",XXX: HOT MiX 22
+http://cdn3.premiumspeed.tech/live/72649?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 21" tvg-id="" group-title="XXX",XXX: HOT MiX 21
+http://cdn3.premiumspeed.tech/live/64689?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 17" tvg-id="" group-title="XXX",XXX: HOT MiX 17
+http://cdn3.premiumspeed.tech/live/37115?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 14" tvg-id="" group-title="XXX",XXX: HOT MiX 14
+http://cdn3.premiumspeed.tech/live/64687?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 11" tvg-id="" group-title="XXX",XXX: HOT MiX 11
+http://cdn3.premiumspeed.tech/live/37110?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 9" tvg-id="" group-title="XXX",XXX: HOT MiX 9
+http://cdn3.premiumspeed.tech/live/58076?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 8" tvg-id="" group-title="XXX",XXX: HOT MiX 8
+http://cdn3.premiumspeed.tech/live/58065?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 7" tvg-id="" group-title="XXX",XXX: HOT MiX 7
+http://cdn3.premiumspeed.tech/live/58062?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 5" tvg-id="" group-title="XXX",XXX: HOT MiX 5
+http://cdn3.premiumspeed.tech/live/76510?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT MiX 1" tvg-id="" group-title="XXX",XXX: HOT MiX 1
+http://cdn3.premiumspeed.tech/live/58054?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 14" tvg-id="" group-title="XXX",XXX: Hot Club 14
+http://cdn3.premiumspeed.tech/live/65238?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 12" tvg-id="" group-title="XXX",XXX: Hot Club 12
+http://cdn3.premiumspeed.tech/live/65236?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 11" tvg-id="" group-title="XXX",XXX: Hot Club 11
+http://cdn3.premiumspeed.tech/live/65237?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 10 HD" tvg-id="" group-title="XXX",XXX: Hot Club 10 HD
+http://cdn3.premiumspeed.tech/live/63391?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 10" tvg-id="" group-title="XXX",XXX: Hot Club 10
+http://cdn3.premiumspeed.tech/live/65235?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 9" tvg-id="" group-title="XXX",XXX: Hot Club 9
+http://cdn3.premiumspeed.tech/live/65232?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 8" tvg-id="" group-title="XXX",XXX: Hot Club 8
+http://cdn3.premiumspeed.tech/live/65233?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 7" tvg-id="" group-title="XXX",XXX: Hot Club 7
+http://cdn3.premiumspeed.tech/live/65229?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 6" tvg-id="" group-title="XXX",XXX: Hot Club 6
+http://cdn3.premiumspeed.tech/live/65228?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hot Club 5" tvg-id="" group-title="XXX",XXX: Hot Club 5
+http://cdn3.premiumspeed.tech/live/65230?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT CLUB 4" tvg-id="" group-title="XXX",XXX: HOT CLUB 4
+http://cdn3.premiumspeed.tech/live/63797?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT CLUB 3" tvg-id="" group-title="XXX",XXX: HOT CLUB 3
+http://cdn3.premiumspeed.tech/live/6020?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT CLUB 2" tvg-id="" group-title="XXX",XXX: HOT CLUB 2
+http://cdn3.premiumspeed.tech/live/63796?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT CLUB 1" tvg-id="" group-title="XXX",XXX: HOT CLUB 1
+http://cdn3.premiumspeed.tech/live/6027?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: HOT" tvg-id="" group-title="XXX",XXX: HOT
+http://cdn3.premiumspeed.tech/live/1538?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hole" tvg-id="" group-title="XXX",XXX: Hole
+http://cdn3.premiumspeed.tech/live/58068?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Hardcore" tvg-id="" group-title="XXX",XXX: Hardcore
+http://cdn3.premiumspeed.tech/live/60979?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GROUP SEX 4" tvg-id="" group-title="XXX",XXX: GROUP SEX 4
+http://cdn3.premiumspeed.tech/live/72901?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GROUP SEX 3" tvg-id="" group-title="XXX",XXX: GROUP SEX 3
+http://cdn3.premiumspeed.tech/live/72898?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GROUP SEX 2" tvg-id="" group-title="XXX",XXX: GROUP SEX 2
+http://cdn3.premiumspeed.tech/live/72911?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GROUP SEX 1" tvg-id="" group-title="XXX",XXX: GROUP SEX 1
+http://cdn3.premiumspeed.tech/live/72907?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GIRLS GONE WILD HD" tvg-id="" group-title="XXX",XXX: GIRLS GONE WILD HD
+http://cdn3.premiumspeed.tech/live/66112?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: GIRLS GONE WILD 2 HD" tvg-id="" group-title="XXX",XXX: GIRLS GONE WILD 2 HD
+http://cdn3.premiumspeed.tech/live/66121?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Girls and Studs" tvg-id="" group-title="XXX",XXX: Girls and Studs
+http://cdn3.premiumspeed.tech/live/37305?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Gay" tvg-id="" group-title="XXX",XXX: Gay
+http://cdn3.premiumspeed.tech/live/61700?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Gangbang" tvg-id="" group-title="XXX",XXX: Gangbang
+http://cdn3.premiumspeed.tech/live/61709?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FTV Midnight Secrets HD" tvg-id="" group-title="XXX",XXX: FTV Midnight Secrets HD
+http://cdn3.premiumspeed.tech/live/10977?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: French Lover Europe" tvg-id="" group-title="XXX",XXX: French Lover Europe
+http://cdn3.premiumspeed.tech/live/3335?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: French Lover" tvg-id="" group-title="XXX",XXX: French Lover
+http://cdn3.premiumspeed.tech/live/3334?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Free X TV" tvg-id="" group-title="XXX",XXX: Free X TV
+http://cdn3.premiumspeed.tech/live/67706?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Fetish" tvg-id="" group-title="XXX",XXX: Fetish
+http://cdn3.premiumspeed.tech/live/60980?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Fast Boyz Gay Men" tvg-id="" group-title="XXX",XXX: Fast Boyz Gay Men
+http://cdn3.premiumspeed.tech/live/15843?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAST BOYZ GAY" tvg-id="" group-title="XXX",XXX: FAST BOYZ GAY
+http://cdn3.premiumspeed.tech/live/49187?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAP TV TEENS" tvg-id="" group-title="XXX",XXX: FAP TV TEENS
+http://cdn3.premiumspeed.tech/live/67687?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAP TV LESBIAN" tvg-id="" group-title="XXX",XXX: FAP TV LESBIAN
+http://cdn3.premiumspeed.tech/live/60379?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAP TV COMPILATION" tvg-id="" group-title="XXX",XXX: FAP TV COMPILATION
+http://cdn3.premiumspeed.tech/live/60381?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAP TV ANAL" tvg-id="" group-title="XXX",XXX: FAP TV ANAL
+http://cdn3.premiumspeed.tech/live/37300?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Fap Tv 2" tvg-id="" group-title="XXX",XXX: Fap Tv 2
+http://cdn3.premiumspeed.tech/live/69767?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAMILY STROKES HD" tvg-id="" group-title="XXX",XXX: FAMILY STROKES HD
+http://cdn3.premiumspeed.tech/live/66123?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAKE TAXI HD" tvg-id="" group-title="XXX",XXX: FAKE TAXI HD
+http://cdn3.premiumspeed.tech/live/84831?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAKE TAXI FHD" tvg-id="" group-title="XXX",XXX: FAKE TAXI FHD
+http://cdn3.premiumspeed.tech/live/63499?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: FAKE AGENT 1" tvg-id="" group-title="XXX",XXX: FAKE AGENT 1
+http://cdn3.premiumspeed.tech/live/67709?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Fake Agent" tvg-id="" group-title="XXX",XXX: Fake Agent
+http://cdn3.premiumspeed.tech/live/58078?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Exxxotica TV" tvg-id="" group-title="XXX",XXX: Exxxotica TV
+http://cdn3.premiumspeed.tech/live/3345?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EXtrem" tvg-id="" group-title="XXX",XXX: EXtrem
+http://cdn3.premiumspeed.tech/live/3329?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EXTASY HD" tvg-id="" group-title="XXX",XXX: EXTASY HD
+http://cdn3.premiumspeed.tech/live/3293?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Extasy HD" tvg-id="" group-title="XXX",XXX: Extasy HD
+http://cdn3.premiumspeed.tech/live/3294?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Evil Angel HD" tvg-id="" group-title="XXX",XXX: Evil Angel HD
+http://cdn3.premiumspeed.tech/live/67694?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 4b" tvg-id="" group-title="XXX",XXX: erotic 4b
+http://cdn3.premiumspeed.tech/live/3245?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 1b" tvg-id="" group-title="XXX",XXX: erotic 1b
+http://cdn3.premiumspeed.tech/live/37986?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 8" tvg-id="" group-title="XXX",XXX: erotic 8
+http://cdn3.premiumspeed.tech/live/3319?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 7" tvg-id="" group-title="XXX",XXX: erotic 7
+http://cdn3.premiumspeed.tech/live/3318?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 6" tvg-id="" group-title="XXX",XXX: erotic 6
+http://cdn3.premiumspeed.tech/live/37106?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 5" tvg-id="" group-title="XXX",XXX: erotic 5
+http://cdn3.premiumspeed.tech/live/35814?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 4" tvg-id="" group-title="XXX",XXX: erotic 4
+http://cdn3.premiumspeed.tech/live/52?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 4" tvg-id="" group-title="XXX",XXX: erotic 4
+http://cdn3.premiumspeed.tech/live/77226?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 3" tvg-id="" group-title="XXX",XXX: erotic 3
+http://cdn3.premiumspeed.tech/live/3317?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 2" tvg-id="" group-title="XXX",XXX: erotic 2
+http://cdn3.premiumspeed.tech/live/76?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: erotic 1" tvg-id="" group-title="XXX",XXX: erotic 1
+http://cdn3.premiumspeed.tech/live/37153?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ERO XXX FHD" tvg-id="" group-title="XXX",XXX: ERO XXX FHD
+http://cdn3.premiumspeed.tech/live/6021?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Emanuelle" tvg-id="" group-title="XXX",XXX: Emanuelle
+http://cdn3.premiumspeed.tech/live/3332?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EBONY 4" tvg-id="" group-title="XXX",XXX: EBONY 4
+http://cdn3.premiumspeed.tech/live/72915?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EBONY 3" tvg-id="" group-title="XXX",XXX: EBONY 3
+http://cdn3.premiumspeed.tech/live/72913?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EBONY 2" tvg-id="" group-title="XXX",XXX: EBONY 2
+http://cdn3.premiumspeed.tech/live/72921?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: EBONY 1" tvg-id="" group-title="XXX",XXX: EBONY 1
+http://cdn3.premiumspeed.tech/live/72909?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DUSK!" tvg-id="" group-title="XXX",XXX: DUSK!
+http://cdn3.premiumspeed.tech/live/3296?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DUSK" tvg-id="" group-title="XXX",XXX: DUSK
+http://cdn3.premiumspeed.tech/live/75?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Dream Porn HD" tvg-id="" group-title="XXX",XXX: Dream Porn HD
+http://cdn3.premiumspeed.tech/live/3288?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DOUBLE DIP HD" tvg-id="" group-title="XXX",XXX: DOUBLE DIP HD
+http://cdn3.premiumspeed.tech/live/66117?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DOUBLE DIP 2 HD" tvg-id="" group-title="XXX",XXX: DOUBLE DIP 2 HD
+http://cdn3.premiumspeed.tech/live/66119?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Dorcel XXX HD" tvg-id="" group-title="XXX",XXX: Dorcel XXX HD
+http://cdn3.premiumspeed.tech/live/3283?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DORCEL XXX FHD" tvg-id="" group-title="XXX",XXX: DORCEL XXX FHD
+http://cdn3.premiumspeed.tech/live/58072?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DORCEL HD" tvg-id="" group-title="XXX",XXX: DORCEL HD
+http://cdn3.premiumspeed.tech/live/53152?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Dorcel FHD" tvg-id="" group-title="XXX",XXX: Dorcel FHD
+http://cdn3.premiumspeed.tech/live/65231?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DORCEL CLUB" tvg-id="" group-title="XXX",XXX: DORCEL CLUB
+http://cdn3.premiumspeed.tech/live/77229?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: DFB NETWORK HD" tvg-id="" group-title="XXX",XXX: DFB NETWORK HD
+http://cdn3.premiumspeed.tech/live/64697?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: CZECH STREETS HD" tvg-id="" group-title="XXX",XXX: CZECH STREETS HD
+http://cdn3.premiumspeed.tech/live/84833?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Cuckold HD" tvg-id="" group-title="XXX",XXX: Cuckold HD
+http://cdn3.premiumspeed.tech/live/60993?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Cuckold" tvg-id="" group-title="XXX",XXX: Cuckold
+http://cdn3.premiumspeed.tech/live/61710?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: CREAMPIE HD" tvg-id="" group-title="XXX",XXX: CREAMPIE HD
+http://cdn3.premiumspeed.tech/live/66110?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: CREAMPIE 2 HD" tvg-id="" group-title="XXX",XXX: CREAMPIE 2 HD
+http://cdn3.premiumspeed.tech/live/66115?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Compilation" tvg-id="" group-title="XXX",XXX: Compilation
+http://cdn3.premiumspeed.tech/live/60991?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Colmax TV" tvg-id="" group-title="XXX",XXX: Colmax TV
+http://cdn3.premiumspeed.tech/live/70779?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Cento x Cento" tvg-id="" group-title="XXX",XXX: Cento x Cento
+http://cdn3.premiumspeed.tech/live/8268?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: CARTOONS 1" tvg-id="" group-title="XXX",XXX: CARTOONS 1
+http://cdn3.premiumspeed.tech/live/72914?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Candyman Gay Men" tvg-id="" group-title="XXX",XXX: Candyman Gay Men
+http://cdn3.premiumspeed.tech/live/21379?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: CANDY TV" tvg-id="" group-title="XXX",XXX: CANDY TV
+http://cdn3.premiumspeed.tech/live/67702?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Brunette" tvg-id="" group-title="XXX",XXX: Brunette
+http://cdn3.premiumspeed.tech/live/60996?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Brazzers TV Europe Russian" tvg-id="" group-title="XXX",XXX: Brazzers TV Europe Russian
+http://cdn3.premiumspeed.tech/live/3307?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BRAZZERS TV" tvg-id="" group-title="XXX",XXX: BRAZZERS TV
+http://cdn3.premiumspeed.tech/live/79?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BRAZZERS TV" tvg-id="" group-title="XXX",XXX: BRAZZERS TV
+http://cdn3.premiumspeed.tech/live/58056?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BRAZZERS" tvg-id="" group-title="XXX",XXX: BRAZZERS
+http://cdn3.premiumspeed.tech/live/60790?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BRAVO TV" tvg-id="" group-title="XXX",XXX: BRAVO TV
+http://cdn3.premiumspeed.tech/live/67711?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BLUE HUSTLER" tvg-id="" group-title="XXX",XXX: BLUE HUSTLER
+http://cdn3.premiumspeed.tech/live/37296?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Blowjob" tvg-id="" group-title="XXX",XXX: Blowjob
+http://cdn3.premiumspeed.tech/live/60978?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Blonde" tvg-id="" group-title="XXX",XXX: Blonde
+http://cdn3.premiumspeed.tech/live/61711?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BLACKED HD" tvg-id="" group-title="XXX",XXX: BLACKED HD
+http://cdn3.premiumspeed.tech/live/66106?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BLACKED 2 HD" tvg-id="" group-title="XXX",XXX: BLACKED 2 HD
+http://cdn3.premiumspeed.tech/live/66108?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BIG TITS 4" tvg-id="" group-title="XXX",XXX: BIG TITS 4
+http://cdn3.premiumspeed.tech/live/77233?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BIG TITS 3" tvg-id="" group-title="XXX",XXX: BIG TITS 3
+http://cdn3.premiumspeed.tech/live/77236?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BIG TITS 2" tvg-id="" group-title="XXX",XXX: BIG TITS 2
+http://cdn3.premiumspeed.tech/live/72920?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BIG TITS 1" tvg-id="" group-title="XXX",XXX: BIG TITS 1
+http://cdn3.premiumspeed.tech/live/72918?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Big Tits" tvg-id="" group-title="XXX",XXX: Big Tits
+http://cdn3.premiumspeed.tech/live/61713?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Big Dick HD" tvg-id="" group-title="XXX",XXX: Big Dick HD
+http://cdn3.premiumspeed.tech/live/66662?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Big Dick" tvg-id="" group-title="XXX",XXX: Big Dick
+http://cdn3.premiumspeed.tech/live/60976?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Big Ass" tvg-id="" group-title="XXX",XXX: Big Ass
+http://cdn3.premiumspeed.tech/live/60975?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Beate Uhse.TV" tvg-id="" group-title="XXX",XXX: Beate Uhse.TV
+http://cdn3.premiumspeed.tech/live/11152?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BEATE UHSE TV" tvg-id="" group-title="XXX",XXX: BEATE UHSE TV
+http://cdn3.premiumspeed.tech/live/3341?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BEATE UHSE TV" tvg-id="" group-title="XXX",XXX: BEATE UHSE TV
+http://cdn3.premiumspeed.tech/live/3346?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BARELY LEGAL TV" tvg-id="" group-title="XXX",XXX: BARELY LEGAL TV
+http://cdn3.premiumspeed.tech/live/3339?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Bangerz" tvg-id="" group-title="XXX",XXX: Bangerz
+http://cdn3.premiumspeed.tech/live/3323?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BANGBROS HD" tvg-id="" group-title="XXX",XXX: BANGBROS HD
+http://cdn3.premiumspeed.tech/live/66107?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BANGBROS 2 HD" tvg-id="" group-title="XXX",XXX: BANGBROS 2 HD
+http://cdn3.premiumspeed.tech/live/66109?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Bang U" tvg-id="" group-title="XXX",XXX: Bang U
+http://cdn3.premiumspeed.tech/live/3330?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BANG BROS HD" tvg-id="" group-title="XXX",XXX: BANG BROS HD
+http://cdn3.premiumspeed.tech/live/60325?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BALKAN EROTIC" tvg-id="" group-title="XXX",XXX: BALKAN EROTIC
+http://cdn3.premiumspeed.tech/live/3320?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Babestation Xtreme" tvg-id="" group-title="XXX",XXX: Babestation Xtreme
+http://cdn3.premiumspeed.tech/live/60990?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BABESTACTION 24" tvg-id="" group-title="XXX",XXX: BABESTACTION 24
+http://cdn3.premiumspeed.tech/live/37284?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Babes TV HD" tvg-id="" group-title="XXX",XXX: Babes TV HD
+http://cdn3.premiumspeed.tech/live/3289?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: BABES FHD" tvg-id="" group-title="XXX",XXX: BABES FHD
+http://cdn3.premiumspeed.tech/live/58063?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: AST TV1" tvg-id="" group-title="XXX",XXX: AST TV1
+http://cdn3.premiumspeed.tech/live/63802?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: AST TV 2" tvg-id="" group-title="XXX",XXX: AST TV 2
+http://cdn3.premiumspeed.tech/live/66661?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: AST TV 1" tvg-id="" group-title="XXX",XXX: AST TV 1
+http://cdn3.premiumspeed.tech/live/66660?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ANAL 1" tvg-id="" group-title="XXX",XXX: ANAL 1
+http://cdn3.premiumspeed.tech/live/77235?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Anal" tvg-id="" group-title="XXX",XXX: Anal
+http://cdn3.premiumspeed.tech/live/61712?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: AMATEUR" tvg-id="" group-title="XXX",XXX: AMATEUR
+http://cdn3.premiumspeed.tech/live/63794?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Alba XXX HD2" tvg-id="" group-title="XXX",XXX: Alba XXX HD2
+http://cdn3.premiumspeed.tech/live/70725?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Alba XXX HD1" tvg-id="" group-title="XXX",XXX: Alba XXX HD1
+http://cdn3.premiumspeed.tech/live/70724?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ALBA XXX HD 2" tvg-id="" group-title="XXX",XXX: ALBA XXX HD 2
+http://cdn3.premiumspeed.tech/live/14220?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 6" tvg-id="" group-title="XXX",XXX: ALBA XXX 6
+http://cdn3.premiumspeed.tech/live/60324?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 2" tvg-id="" group-title="XXX",XXX: ALBA XXX 2
+http://cdn3.premiumspeed.tech/live/58069?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 2" tvg-id="" group-title="XXX",XXX: ALBA XXX 2
+http://cdn3.premiumspeed.tech/live/58071?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x9" tvg-id="" group-title="XXX",XXX: ADULTIPTV x9
+http://cdn3.premiumspeed.tech/live/63793?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x8" tvg-id="" group-title="XXX",XXX: ADULTIPTV x8
+http://cdn3.premiumspeed.tech/live/63792?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x7" tvg-id="" group-title="XXX",XXX: ADULTIPTV x7
+http://cdn3.premiumspeed.tech/live/63791?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x6" tvg-id="" group-title="XXX",XXX: ADULTIPTV x6
+http://cdn3.premiumspeed.tech/live/63790?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x5" tvg-id="" group-title="XXX",XXX: ADULTIPTV x5
+http://cdn3.premiumspeed.tech/live/63789?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x4" tvg-id="" group-title="XXX",XXX: ADULTIPTV x4
+http://cdn3.premiumspeed.tech/live/63788?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x3" tvg-id="" group-title="XXX",XXX: ADULTIPTV x3
+http://cdn3.premiumspeed.tech/live/63787?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x2" tvg-id="" group-title="XXX",XXX: ADULTIPTV x2
+http://cdn3.premiumspeed.tech/live/63785?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x10" tvg-id="" group-title="XXX",XXX: ADULTIPTV x10
+http://cdn3.premiumspeed.tech/live/63795?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTIPTV x1" tvg-id="" group-title="XXX",XXX: ADULTIPTV x1
+http://cdn3.premiumspeed.tech/live/63786?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Threesome HD" tvg-id="" group-title="XXX",XXX: ADULTi Threesome HD
+http://cdn3.premiumspeed.tech/live/71516?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Teen HD" tvg-id="" group-title="XXX",XXX: ADULTi Teen HD
+http://cdn3.premiumspeed.tech/live/66388?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Russian HD" tvg-id="" group-title="XXX",XXX: ADULTi Russian HD
+http://cdn3.premiumspeed.tech/live/71515?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Rough HD" tvg-id="" group-title="XXX",XXX: ADULTi Rough HD
+http://cdn3.premiumspeed.tech/live/71506?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Pov HD" tvg-id="" group-title="XXX",XXX: ADULTi Pov HD
+http://cdn3.premiumspeed.tech/live/71520?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Pornstar HD" tvg-id="" group-title="XXX",XXX: ADULTi Pornstar HD
+http://cdn3.premiumspeed.tech/live/71528?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Milf HD" tvg-id="" group-title="XXX",XXX: ADULTi Milf HD
+http://cdn3.premiumspeed.tech/live/71527?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Livecams HD" tvg-id="" group-title="XXX",XXX: ADULTi Livecams HD
+http://cdn3.premiumspeed.tech/live/71513?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Lesbian HD" tvg-id="" group-title="XXX",XXX: ADULTi Lesbian HD
+http://cdn3.premiumspeed.tech/live/71514?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Latina HD" tvg-id="" group-title="XXX",XXX: ADULTi Latina HD
+http://cdn3.premiumspeed.tech/live/71521?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Interracial HD" tvg-id="" group-title="XXX",XXX: ADULTi Interracial HD
+http://cdn3.premiumspeed.tech/live/71522?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Hardcore HD" tvg-id="" group-title="XXX",XXX: ADULTi Hardcore HD
+http://cdn3.premiumspeed.tech/live/71518?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Gay HD" tvg-id="" group-title="XXX",XXX: ADULTi Gay HD
+http://cdn3.premiumspeed.tech/live/71507?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Gangbang HD" tvg-id="" group-title="XXX",XXX: ADULTi Gangbang HD
+http://cdn3.premiumspeed.tech/live/71508?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Fetish HD" tvg-id="" group-title="XXX",XXX: ADULTi Fetish HD
+http://cdn3.premiumspeed.tech/live/71524?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Cuckold HD" tvg-id="" group-title="XXX",XXX: ADULTi Cuckold HD
+http://cdn3.premiumspeed.tech/live/71517?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Compilation HD" tvg-id="" group-title="XXX",XXX: ADULTi Compilation HD
+http://cdn3.premiumspeed.tech/live/71509?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Brunette HD" tvg-id="" group-title="XXX",XXX: ADULTi Brunette HD
+http://cdn3.premiumspeed.tech/live/71510?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Blowjob HD" tvg-id="" group-title="XXX",XXX: ADULTi Blowjob HD
+http://cdn3.premiumspeed.tech/live/71519?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Blonde HD" tvg-id="" group-title="XXX",XXX: ADULTi Blonde HD
+http://cdn3.premiumspeed.tech/live/71511?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Bigtits HD" tvg-id="" group-title="XXX",XXX: ADULTi Bigtits HD
+http://cdn3.premiumspeed.tech/live/71525?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Bigdick HD" tvg-id="" group-title="XXX",XXX: ADULTi Bigdick HD
+http://cdn3.premiumspeed.tech/live/71526?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Bigass HD" tvg-id="" group-title="XXX",XXX: ADULTi Bigass HD
+http://cdn3.premiumspeed.tech/live/71523?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULTi Anal HD" tvg-id="" group-title="XXX",XXX: ADULTi Anal HD
+http://cdn3.premiumspeed.tech/live/71512?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Adulte 9" tvg-id="" group-title="XXX",XXX: Adulte 9
+http://cdn3.premiumspeed.tech/live/61557?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: Adulte 8" tvg-id="" group-title="XXX",XXX: Adulte 8
+http://cdn3.premiumspeed.tech/live/61561?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT HOTCLUB 3" tvg-id="" group-title="XXX",XXX: ADULT HOTCLUB 3
+http://cdn3.premiumspeed.tech/live/63394?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 8 HD" tvg-id="" group-title="XXX",XXX: ADULT 8 HD
+http://cdn3.premiumspeed.tech/live/84838?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 8" tvg-id="" group-title="XXX",XXX: ADULT 8
+http://cdn3.premiumspeed.tech/live/75503?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 7 HD" tvg-id="" group-title="XXX",XXX: ADULT 7 HD
+http://cdn3.premiumspeed.tech/live/84836?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 6 HD" tvg-id="" group-title="XXX",XXX: ADULT 6 HD
+http://cdn3.premiumspeed.tech/live/6006?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 5 HD" tvg-id="" group-title="XXX",XXX: ADULT 5 HD
+http://cdn3.premiumspeed.tech/live/6005?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 5" tvg-id="" group-title="XXX",XXX: ADULT 5
+http://cdn3.premiumspeed.tech/live/75501?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 4" tvg-id="" group-title="XXX",XXX: ADULT 4
+http://cdn3.premiumspeed.tech/live/75500?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 2 HD" tvg-id="" group-title="XXX",XXX: ADULT 2 HD
+http://cdn3.premiumspeed.tech/live/84835?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: ADULT 1 HD" tvg-id="" group-title="XXX",XXX: ADULT 1 HD
+http://cdn3.premiumspeed.tech/live/84840?u=FvJufvEaNE&s=xgwlS8U7Pt
+#EXTINF:-1 tvg-name="XXX: A3BIKINI TV" tvg-id="" group-title="XXX",XXX: A3BIKINI TV
+http://cdn3.premiumspeed.tech/live/55196?u=FvJufvEaNE&s=xgwlS8U7Pt
