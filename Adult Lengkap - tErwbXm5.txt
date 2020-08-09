@@ -1,0 +1,853 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="XXX",Penthouse
+http://37.235.150.21:81/udp/225.50.70.3:1234
+#EXTINF:-1 group-title="XXX",Playboy TV
+http://178.217.72.66:80/225.201.2.108/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="XXX",BBW French Lover 
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3334.m3u8
+http://37.235.150.21:81/udp/225.50.70.7:1234
+
+#EXTINF:-1 group-title="XXX",SMOKING
+http://cdn.adultiptv.net/smoking.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Babestation24
+http://www.bbip.tv:8080/pedro/pedro/4656
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Private TV HD
+http://www.bbip.tv:8080/pedro/pedro/4641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 2
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX", Visit-X TV (18+)
+http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9QyHSab.jpg" group-title="XXX",Vivid TV Europe
+http://www.bbip.tv:8080/pedro/pedro/4652
+#EXTINF:0 tvg-id="ext" group-title="XXX",OLaLa
+http://www.bbip.tv:8080/pedro/pedro/4638
+
+
+#EXTINF:-1 tvg-id="ext" group-title="XXX", Dorcel HD
+http://www.bbip.tv:8080/pedro/pedro/4639
+#EXTINF:-1 tvg-id="ext" group-title="XXX", RK
+http://188.35.9.26:5031/udp/058j
+
+#EXTINF:-1 group-title="XXX",Barely legal
+http://37.235.150.21:81/udp/225.50.70.4:1234
+
+#EXTINF:-1 tvg-id="ext" group-title="XXX", Russian Night
+http://www.bbip.tv:8080/pedro/pedro/4653
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JgcUO21.jpg" tvg-country="HU" tvg-url="" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+
+#EXTINF:-1 tvg-id="ext" group-title="XXX", Ibiza TV1
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="XXX", Ibiza TV2
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="PinkErotic.rs" group-title="ADULT CHANNELS",PINK EROTIC 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/828.m3u8
+#EXTINF:0 tvg-id="PinkErotic2.rs" group-title="ADULT CHANNELS",PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/827.m3u8
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="ADULT CHANNELS",PINK EROTIC 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/826.m3u8
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="ADULT CHANNELS",PINK EROTIC 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/825.m3u8
+#EXTINF:0 tvg-id="PinkErotic5.rs" group-title="ADULT CHANNELS",PINK EROTIC 5
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/824.m3u8
+#EXTINF:0 tvg-id="PinkErotic6.rs" group-title="ADULT CHANNELS",PINK EROTIC 6
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/823.m3u8
+#EXTINF:0 tvg-id="PinkErotic7.rs" group-title="ADULT CHANNELS",PINK EROTIC 7
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/822.m3u8
+#EXTINF:0 tvg-id="PinkErotic8.rs" group-title="ADULT CHANNELS",PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/821.m3u8
+
+
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 1
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/5533.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8316.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 3
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8315.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 4
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8314.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 5
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8313.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 6
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8312.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 1 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8311.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Alba XXX 2 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/8310.m3u8
+
+
+#EXTINF:-1 group-title="ADULT CHANNELS",Hustler HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/37296.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Brazzers Europe
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/2.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Brazzers TV Europe Russian
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3307.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Evil Angel HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/146259.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",GIRLS GONE WILD 2 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/66121.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",GIRLS GONE WILD 1 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/66112.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",HOT PLEASURE
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3326.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Meiden Van Holland HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/151612.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",PASSION XXX HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/48.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",DORCEL XXX TV HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3283.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",DORCEL TV HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/53152.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",ERO X HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3796.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",ERO XXX HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/37276.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",OH-LA-LA HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/36535.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Penthouse 2 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/145673.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",PENTHOUSE GOLD HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/32056.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",PENTHOUSE PASSION HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172382.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Playboy Europe HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/67686.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",Private HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3281.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",REDLIGHT FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/85.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",21 Years Old
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165860.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS",After Party Sex
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165861.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: All Anal For Khloe Kapri
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173613.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Always Want More
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165846.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: ANAL
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173696.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Angel Emily
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165838.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: AST TV 1
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/146585.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: AST TV 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/52986.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BABES
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/145670.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: babestv
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3289.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BABYSITTER
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173707.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BALKAN EROTIC
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3320.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Balloon Booty
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165866.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Bang U
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3330.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BANGBROS HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/60325.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Bangerz
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3323.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BARELY LEGAL
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/92037.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BBW HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174204.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BEATE UHSE TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3341.m3u8
+
+
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 1 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163428.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 2 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163433.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 3 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163427.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 4 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163429.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 5 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163439.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 6 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163430.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 7 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163431.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 8 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163436.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 9 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163432.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 10 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163440.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 11 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163441.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 12 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163437.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 14 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163435.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Black of Blondes 15 FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/163438.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Blacked
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157435.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BLACKED 1
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/92010.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BLACKED 3 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/66108.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BLACKED 4 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/66106.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BLACKED TV 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172354.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Blair Williams
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157443.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Blonde Cutie Craves
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165839.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Blonde HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174206.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Blowjob
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157432.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BONDAGE
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173704.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BRATTY SIS
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173697.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BRAVO TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/67711.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BRAZZERS
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/79.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: BRAZZERS TV B
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/36601.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Brunette
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/60996.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Butt Mold
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165876.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabel Gangbang TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174229.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabel Porn Pornstar TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174227.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabel Rough TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172404.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CabelPorn HENTAI
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172356.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Threesome TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172413.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CabelPorn Tr Altyazi HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172410.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazi 1
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174226.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazi 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172355.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazi 3
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172351.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazi 4
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172350.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazili 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172411.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cabelporn Turkce Altyazili YENI
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172352.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CANDY
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/145672.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CANDYMAN GAY
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174230.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Candyman Gay Men
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/21379.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Casting 1
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172427.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Casting 2
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172433.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CASTING COUCH
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173700.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Caught Her On Cam
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165851.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Close To You
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165874.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CLUB SEVENTEEN
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173699.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: COMPILATION
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172381.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: COMPLITION TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/174209.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Croatian Cutie Anal Banged
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165893.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cruising For Anal
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165891.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Cuckold
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/146261.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CZECH GANG BANG
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173698.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CZECH MASSAGE
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173710.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: CZECH STREETS FHD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/84833.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: DANCING BEAR HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173702.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: DAREDORM
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173703.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Dark X
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173602.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Deep Lush
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165895.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Desire
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/146272.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: DIGITAL PLAYGROUND
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172406.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Don t Break Dani Lynn
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165881.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Dont Break Me
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/165888.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Dream Porn HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3288.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: DUSK!
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/75.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Fake Taxi HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157191.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 1 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157178.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 2 4K
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172423.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 3 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157184.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 4 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157179.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 5 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157180.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 6 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172420.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 7 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157181.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn 8 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157182.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn Fake Taxi 2 HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172421.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn Fake Taxi HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157183.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EB Porn HD
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/157185.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EBONY
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/173705.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: EGOIST TV
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/145668.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS",XXX: Emanuelle
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/3332.m3u8
+
+
+
+
+#EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="ADULT CHANNELS" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",BRAZZERS TV (UK)
+http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 ch-id="RK TV (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a42ce5e41e35188c4368adc14005a10.jpeg" group-title="ADULT CHANNELS",RK TV (INT)
+http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 ch-id="X BUNGA BUNGA (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="ADULT CHANNELS",X BUNGA BUNGA (INT)
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/172380.m3u8
+#EXTINF:-1 ch-id="JUST 89 (INT)" tvg-logo="https://www.just89.com/img/logo.jpg" group-title="ADULT CHANNELS",JUST 89 (INT)
+https://ch.iptvmate.net/118f7bb441e27ef9d855b3bb9a487614.m3u8
+#EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="ADULT CHANNELS",VIVID TV (EU)
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 ch-id="BISEXUAL TV (INT)" tvg-logo="https://i.pinimg.com/originals/f4/e9/8e/f4e98e5d039513af7761e38d5bdfebc3.png" group-title="ADULT CHANNELS",BISEXUAL TV (INT) 
+https://www.ast.tv/stream/1/normal.m3u8
+#EXTINF:-1 ch-id="DORCEL TV (INT)" tvg-logo="https://enigma2-hilfe.de/wp-content/uploads/2017/07/DorcelTV.jpg" group-title="ADULT CHANNELS",DORCEL TV (INT) 
+http://188.35.9.11:21141/udp/214h
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-1
+http://hotstream.asia/2018/2/12/kbj18020910.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-2
+http://hotstream.asia/2018/2/12/kbj18020812.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-3
+http://hotstream.asia/2018/2/12/kbj18020810.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-4
+http://hotstream.asia/2018/2/12/a18020703.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-5
+http://hotstream.asia/2018/2/12/kbj18021007.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-6
+http://hotstream.asia/2018/2/12/kbj18013011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-7
+http://hotstream.asia/2018/2/12/kbj18013004-01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-8
+http://hotstream.asia/2018/2/12/kbj18020909-02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-9
+http://hotstream.asia/2018/2/12/camjddfihsyh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-10
+http://hotstream.asia/2018/2/12/jpkmdhiejf.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-KOREA-3-11
+http://hotstream.asia/2018/2/12/jpnmamnyrtt.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-12
+http://hotstream.asia/2018/2/12/91xiaoagauzl.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-13
+http://hotstream.asia/2018/2/12/kbj18020706.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-14
+http://hotstream.asia/2018/2/12/kbj18020703.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-15
+http://hotstream.asia/2018/2/12/kbj18020903.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-16
+http://hotstream.asia/2018/2/12/Sofia180124.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-17
+http://hotstream.asia/2018/2/12/kbj18020307.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-18
+http://hotstream.asia/2018/2/12/kbj18020408.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-19
+http://hotstream.asia/2018/2/12/kbj18020509.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-20
+http://hotstream.asia/2018/2/12/gNGGUOIHX.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-21
+http://hotstream.asia/2018/3/2/kbj18022502.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-22
+http://hotstream.asia/2018/3/2/kbj18022713-01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-23
+http://hotstream.asia/2018/3/2/kbj18022708-02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-24
+http://hotstream.asia/2018/3/2/wc18022208-02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-25
+http://hotstream.asia/2018/3/2/kbj18022509.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-26
+http://hotstream.asia/2018/3/2/kbj18022309.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-Jepang-3", VIP-Jepang-3-27
+http://hotstream.asia/2018/2/12/a18020704.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-4-1
+http://hotstream.asia/2018/3/2/kbj18021307.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-4-2
+http://hotstream.asia/2018/3/2/kbj18021908-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-3
+http://hotstream.asia/2018/3/2/kbj18022311-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-4
+http://hotstream.asia/2018/3/2/wc18021105.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-5
+http://hotstream.asia/2018/3/16/wc010102.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-6
+http://hotstream.asia/2018/3/16/wc021603.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-7
+http://hotstream.asia/2018/3/16/wc101501.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-8
+http://hotstream.asia/2018/3/16/am122501.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-9
+http://hotstream.asia/2018/3/16/wc012201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-10
+http://hotstream.asia/2018/3/16/wc012602.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-11
+http://hotstream.asia/2018/3/16/wc122001-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-12
+http://hotstream.asia/2018/3/16/wc122001-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-13
+http://hotstream.asia/2018/3/16/FC2_0119.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-14
+http://hotstream.asia/2018/3/16/am102201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-15
+http://hotstream.asia/2018/3/16/sexy-dance.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-16
+http://hotstream.asia/2018/3/16/am111702-ori.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-17
+http://hotstream.asia/2018/3/16/wc020501.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-18
+http://hotstream.asia/2018/3/16/wc021603.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-19
+http://hotstream.asia/2018/3/2/kbj18022708-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-20
+http://hotstream.asia/2018/3/2/wc18021106.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-21
+http://hotstream.asia/2018/3/2/wc18022208-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-22
+http://hotstream.asia/2018/3/2/ka18021401.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-23
+http://hotstream.asia/2018/3/2/wc18022204.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-24
+http://hotstream.asia/2018/3/2/kbj18022705.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-25
+http://hotstream.asia/2018/3/2/kbj18021913.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-26
+http://hotstream.asia/2018/3/2/kp18022002.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-27
+http://hotstream.asia/2018/3/2/kbj18020811-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-4-28
+http://hotstream.asia/2018/3/16/wc122201.mp4
+
+#EXTM3U =====================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-3-1
+http://hotstream.asia/2018/2/12/kbj18020910.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-2
+http://hotstream.asia/2018/2/12/kbj18020812.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-3
+http://hotstream.asia/2018/2/12/kbj18020810.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-4
+http://hotstream.asia/2018/2/12/a18020703.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-5
+http://hotstream.asia/2018/2/12/kbj18021007.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-6
+http://hotstream.asia/2018/2/12/kbj18013011.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-7
+http://hotstream.asia/2018/2/12/kbj18013004-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-8
+http://hotstream.asia/2018/2/12/kbj18020909-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-9
+http://hotstream.asia/2018/2/12/camjddfihsyh.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-10
+http://hotstream.asia/2018/2/12/jpkmdhiejf.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-11
+http://hotstream.asia/2018/2/12/jpnmamnyrtt.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-12
+http://hotstream.asia/2018/2/12/91xiaoagauzl.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-13
+http://hotstream.asia/2018/2/12/kbj18020706.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-14
+http://hotstream.asia/2018/2/12/kbj18020703.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-15
+http://hotstream.asia/2018/2/12/kbj18020903.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-16
+http://hotstream.asia/2018/2/12/Sofia180124.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-17
+http://hotstream.asia/2018/2/12/kbj18020307.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-18
+http://hotstream.asia/2018/2/12/kbj18020408.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-19
+http://hotstream.asia/2018/2/12/kbj18020509.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-20
+http://hotstream.asia/2018/2/12/gNGGUOIHX.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-21
+http://hotstream.asia/2018/3/2/kbj18022502.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-22
+http://hotstream.asia/2018/3/2/kbj18022713-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-23
+http://hotstream.asia/2018/3/2/kbj18022708-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-24
+http://hotstream.asia/2018/3/2/wc18022208-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-25
+http://hotstream.asia/2018/3/2/kbj18022509.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-26
+http://hotstream.asia/2018/3/2/kbj18022309.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-27
+http://hotstream.asia/2018/2/12/a18020704.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-28
+http://hotstream.asia/2018/2/12/wc18020304-07.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-29
+http://hotstream.asia/2018/2/12/hgyyqbcsj2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-30
+http://hotstream.asia/2018/2/12/wc18020802.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-31
+http://hotstream.asia/2018/3/2/wc18022208-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-32
+http://hotstream.asia/2018/3/2/kbj18020811-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-33
+http://hotstream.asia/2018/3/2/kbj18021508.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-34
+http://hotstream.asia/2018/3/2/kbj18022311-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-35
+http://hotstream.asia/2018/3/2/kbj18022104.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-3-36
+http://hotstream.asia/2018/3/2/kbj18021914.mp4
+
+#EXTM3U =====================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-2-1
+http://hotstream.asia/2018/1/30/a18011504.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-2
+http://hotstream.asia/2018/1/30/kbj18011010.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-3
+http://hotstream.asia/2018/1/30/kbj18012013-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-4
+http://hotstream.asia/2018/1/30/kbj18011913.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-5
+http://hotstream.asia/2018/1/30/a18012502.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-6
+http://hotstream.asia/2018/1/30/kbj18011317-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-7
+http://hotstream.asia/2018/1/30/kbj18011909.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-8
+http://hotstream.asia/2018/1/30/kbj18011901-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-9
+http://hotstream.asia/2018/1/30/kbj18012506.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-10
+http://hotstream.asia/2018/1/30/kbj18012509-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-11
+http://hotstream.asia/2018/1/30/kbj18012207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-12
+http://hotstream.asia/2018/1/30/kbj18012208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-13
+http://hotstream.asia/2018/1/30/a18012506.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-14
+http://hotstream.asia/2018/1/30/kbj18011316-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-15
+http://hotstream.asia/2018/1/30/kbj18012013-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-16
+http://hotstream.asia/2018/1/30/kbj18011313-3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-17
+http://hotstream.asia/2018/1/30/kbj18012509-3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-18
+http://hotstream.asia/2018/1/30/kbj18012206.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-19
+http://hotstream.asia/2018/1/30/kbj18011514.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-20
+http://hotstream.asia/2018/1/30/kbj18012409.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-21
+http://hotstream.asia/2018/1/30/kbj18011901-03.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-22
+http://hotstream.asia/2018/1/30/kbj18011008.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-23
+http://hotstream.asia/2018/1/30/kbj18012510.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-24
+http://hotstream.asia/2018/1/30/kbj18011014.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-25
+http://hotstream.asia/2018/1/30/kbj18011320-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-26
+http://hotstream.asia/2018/1/30/a18012205.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-27
+http://hotstream.asia/2018/1/30/wc18010802.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-28
+http://hotstream.asia/2018/1/30/kbj18012011.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-29
+http://hotstream.asia/2018/1/30/kbj18012007.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-30
+http://hotstream.asia/2018/1/30/kbj18011317-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-31
+http://hotstream.asia/2018/1/30/kbj18011316-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-32
+http://hotstream.asia/2018/1/30/kbj18011901-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-33
+http://hotstream.asia/2018/1/30/kbj18012403.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-34
+http://hotstream.asia/2018/1/30/a18011506.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-35
+http://hotstream.asia/2018/1/30/a18012207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-36
+http://hotstream.asia/2018/2/12/kbj18020809.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-37
+http://hotstream.asia/2018/2/12/kbj18013004-02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-38
+http://hotstream.asia/2018/2/12/kbj18013005-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-39
+http://hotstream.asia/2018/2/12/kbj18013010.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-40
+http://hotstream.asia/2018/2/12/kbj18020305.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-41
+http://hotstream.asia/2018/2/12/kbj18013004-03.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-42
+http://hotstream.asia/2018/2/12/kbj18020909-01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-43
+http://hotstream.asia/2018/2/12/kbj18020409.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-44
+http://hotstream.asia/2018/2/12/korean-scandal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-2-45
+http://hotstream.asia/2018/2/12/a18020702.mp4
+
+#EXTM3U =====================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-1-1
+http://hotstream.asia/2019/5/5/a19041512.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-2
+http://hotstream.asia/2019/5/5/HSJS190324.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-3
+http://hotstream.asia/2019/5/5/1904207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-4
+http://hotstream.asia/2019/5/5/a19041507-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-5
+http://hotstream.asia/2019/5/5/1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-6
+http://hotstream.asia/2019/5/5/BYV190409.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-7
+http://hotstream.asia/2019/5/5/a19042507.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-8
+http://hotstream.asia/2019/5/5/lysjwtk.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-9
+http://hotstream.asia/2019/5/5/a19041802.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-10
+http://hotstream.asia/2019/5/5/xuehuSVT.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-11
+http://hotstream.asia/2019/5/5/a19041803.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-12
+http://hotstream.asia/2019/5/5/CXS190404.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-13
+http://hotstream.asia/2019/5/5/HSD190323.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-14
+http://hotstream.asia/2019/5/5/kbj19042104.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-15
+http://hotstream.asia/2019/5/5/a19041903.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-16
+http://hotstream.asia/2019/5/5/ZPV190327.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-17
+http://hotstream.asia/2019/5/5/a19041507-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-18
+http://hotstream.asia/2019/5/5/kbj19042208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-19
+http://hotstream.asia/2019/5/5/kbj19042909.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-1-20
+http://hotstream.asia/2019/5/5/kbj19042106.mp4
+
+#EXTM3U =====================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="VIP-KOREA" ,VIP-KOREA-0-1
+http://hotstream.asia/2019/8/2/a19072111.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-2
+http://hotstream.asia/2019/8/2/a19072307.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-3
+http://hotstream.asia/2019/8/2/a19080205.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-4
+http://hotstream.asia/2019/8/2/kbj19072410.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-5
+http://hotstream.asia/2019/8/2/kbj19072108.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-6
+http://hotstream.asia/2019/8/2/kbj19072207-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-7
+http://hotstream.asia/2019/8/2/a19080208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-8
+http://hotstream.asia/2019/8/2/a19072107.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-9
+http://hotstream.asia/2019/8/2/kbj19072206-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-10
+http://hotstream.asia/2019/8/2/kbj19072412.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-11
+http://hotstream.asia/2019/8/2/a19072306.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-12
+http://hotstream.asia/2019/8/2/kbj19073107.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-13
+http://hotstream.asia/2019/8/2/kbj19072103.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-14
+http://hotstream.asia/2019/8/2/kbj19072113-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-15
+http://hotstream.asia/2019/8/2/kbj19073102-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-16
+http://hotstream.asia/2019/8/2/a19080211.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-17
+http://hotstream.asia/2019/8/2/kbj19072207-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-18
+http://hotstream.asia/2019/8/2/WBC44170527-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-19
+http://hotstream.asia/2019/8/2/kbj19072206-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-20
+http://hotstream.asia/2019/8/2/a19080210.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-21
+http://hotstream.asia/2019/8/2/kbj19072201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-22
+http://hotstream.asia/2019/8/2/a19080201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-23
+http://hotstream.asia/2019/8/2/GMV180906-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-24
+http://hotstream.asia/2019/8/2/a19070901.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-25
+http://hotstream.asia/2019/8/2/mir385mi01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-26
+http://hotstream.asia/2019/8/2/xiunin.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-27
+http://hotstream.asia/2019/8/2/kbj19072112-2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-28
+http://hotstream.asia/2019/8/2/kbj19073102-1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cYJNpH.jpg" group-title="" ,VIP-KOREA-0-29
+http://hotstream.asia/2019/7/25/1970204-4.mp4
