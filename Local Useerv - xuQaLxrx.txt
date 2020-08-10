@@ -810,6 +810,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227329/2.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS",Horee
+http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/eGdBUqp2/gerbil/6397_gerbil/playlist.m3u8
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/rattus/horee_rattus/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",Dunia Anak
