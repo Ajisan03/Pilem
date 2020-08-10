@@ -1288,10 +1288,10 @@ http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/811
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQALOI1fdR97rCxjlxn58c0kVcNQrX8vDGRlA&usqp=CAU" group-title="MUSIC",Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",Music 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",Trace Urban International
 http://185.236.229.2:8000/play/a03m/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",Music 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",MTV USA
 http://178.199.75.214:7777/play/a06v
 
 
