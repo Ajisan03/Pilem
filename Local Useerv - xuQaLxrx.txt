@@ -1303,6 +1303,9 @@ http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/225
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",MTV USA
 http://178.199.75.214:7777/play/a06v
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",NICK MUSIC
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/12982
+
 
 ################ RELIGI ##################
 
