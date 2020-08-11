@@ -448,35 +448,16 @@ http://securetv.net:8080/vMqxnQ5x5k/7053514584/1402
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz11QZFVXAS6XLofjRF8N04tU2X3CYgWXW9A&usqp=CAU" group-title="SPORT",Sky Sport Football HD
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/145799
 
-
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS_Blitz_light_background_4-3_002_lrg.png" group-title="SPORT", SuperSport blizt
-http://magco.rip/live/41246671289321/41604451921808/79003.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS1_light_background_4-3_004_lrg.png" group-title="SPORT", SuperSport 1 HD
-http://magco.rip/live/41246671289321/41604451921808/78991.m3u8
+http://138.201.217.7:8081/Top/Tviptv/60
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS2_light_background_4-3_001_lrg.png" group-title="SPORT", SuperSport 2 HD
-http://magco.rip/live/41246671289321/41604451921808/78992.m3u8
+http://138.201.217.7:8081/Top/Tviptv/61
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS3_light_background_4-3_002_lrg.png" group-title="SPORT", SuperSport 3 HD
-http://magco.rip/live/41246671289321/41604451921808/78993.m3u8
+http://138.201.217.7:8081/Top/Tviptv/62
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS4_light_background_4-3_001_lrg.png" group-title="SPORT", SuperSport 4 HD
-http://magco.rip/live/41246671289321/41604451921808/78994.m3u8
+http://138.201.217.7:8081/Top/Tviptv/63
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS5_light_background_4-3_005_lrg.png" group-title="SPORT", SuperSport 5 HD
-http://magco.rip/live/41246671289321/41604451921808/78995.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS6_light_background_4-3_002_lrg.png" group-title="SPORT", SuperSport 6 HD
-http://magco.rip/live/41246671289321/41604451921808/78996.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS7_light_background_4-3_001_lrg.png" group-title="SPORT", SuperSport 7 HD
-http://magco.rip/live/41246671289321/41604451921808/78997.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS8_light_background_4-3_lrg.png" group-title="SPORT", SuperSport 8 HD
-http://magco.rip/live/41246671289321/41604451921808/78998.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS9_light_background_4-3_001_lrg.png" group-title="SPORT", SuperSport 9 HD
-http://magco.rip/live/41246671289321/41604451921808/78999.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS10_light_background_4-3_lrg.png" group-title="SPORT", SuperSport 10 HD
-http://magco.rip/live/41246671289321/41604451921808/79000.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS11_light_background_4-3_002_lrg.png" group-title="SPORT", SuperSport 11 HD
-http://magco.rip/live/41246671289321/41604451921808/79001.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS12_light_background_4-3_001_lrg.png" group-title="SPORT", SuperSport 12 HD
-http://magco.rip/live/41246671289321/41604451921808/79002.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS1_Maximo_light_background_4-3_002_lrg.png" group-title="SPORT", SuperSport 1 Maximo
-http://magco.rip/live/41246671289321/41604451921808/79004.m3u8
+http://138.201.217.7:8081/Top/Tviptv/64
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgAv71nUuWX8QKbNmQkN67ILWQTRojEzjovQ&usqp=CAU" group-title="SPORT",UCL
