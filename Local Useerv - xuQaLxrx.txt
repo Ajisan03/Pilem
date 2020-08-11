@@ -889,6 +889,7 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAI GULP" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rai_Gulp_HD_-_Logo.svg/1200px-Rai_Gulp_HD_-_Logo.svg.png" group-title="KIDS",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" group-title="KIDS" tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png", Cartoon Network 1
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/rattus/cartoonnetwork_rattus/playlist.m3u8
 https://delivery.macan.live/stream/cartoonnetwork_id/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" group-title="KIDS" tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png", Cartoon Network 2
