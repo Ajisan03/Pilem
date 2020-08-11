@@ -267,17 +267,14 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151143
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 2
-http://tvla.xyz:80/ajwsqkms/76tcl0S3Ms/34719
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151144
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 2 (Backup)
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151144
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSot70Wvi3D0X83l6luH_1BJEB8Na26BHrjMg&usqp=CAU" group-title="SPORT", Bein Sport HD 3
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/114.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://elitbasaranotel.com/images/4087ad3b8d4ade30276804ac8a407281.png" group-title="SPORT", Bein Sport HD 4
-http://tvla.xyz:80/ajwsqkms/76tcl0S3Ms/34721
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/115.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHv2gv0C1NOcidw4ARdM3jhp77zHbJVb72rg&usqp=CAU" group-title="SPORT", Bein Sport HD 5
-http://tvla.xyz:80/ajwsqkms/76tcl0S3Ms/34722
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/116.m3u8
 
 
