@@ -238,8 +238,10 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU" group-title="SPORT",Sport TV 1 HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1483.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8fUDCW8RrclAfK0oBs4k3oCS3rh1CNMqdxA&usqp=CAU" group-title="SPORT",Sport TV 2 HD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1486.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU" group-title="SPORT",Sport TV 3 HD
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
@@ -1417,4 +1419,4 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=L
 ##EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-country="RO" tvg-url="" group-title="OTHERS",MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="OTHERS",MOOZ RO
-http://iptvpro.vision-new.org:8789/fkldfSPKQms659F/FQifq68AS32p4B/20443
+http://ikasalon.com/ekonomis/stream/tvnmovies-SIPAHUTARmalingplaylist.m3u8
