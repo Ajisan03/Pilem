@@ -242,6 +242,7 @@ http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1483.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8fUDCW8RrclAfK0oBs4k3oCS3rh1CNMqdxA&usqp=CAU" group-title="SPORT",Sport TV 2 HD
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1486.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU" group-title="SPORT",Sport TV 3 HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1489.m3u8
 
 
