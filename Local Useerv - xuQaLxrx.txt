@@ -287,10 +287,11 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmJPtVlaJBd6v8RTo3a85U9L4wQN8HkIeLI7_hQaLACffDnhQ&usqp=CAU" tvg-chno="486" channel-id="486" tvg-url="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="SPORT",BEIN Sports Extra 2 (Backup)
 https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwJYff59HkXbOX4iqCKwT10nn3lVnJJuxHw&usqp=CAU" group-title="SPORT",Tring Sport 1 HD
-http://138.201.217.7:8081/Top/Tviptv/65
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1306.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://qershia.co/wp-content/uploads/2020/01/tringsport2-390x220.png" group-title="SPORT",Tring Sport 2 HD
-http://138.201.217.7:8081/Top/Tviptv/66
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/1305.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="SPORT",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&userid=b3f7mpxpok&tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&chname=Mola_Sports_Free_Trial-
