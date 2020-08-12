@@ -264,13 +264,13 @@ http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/14848
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 1
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151143
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/112.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 1 (Backup) 
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151143
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 2
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151144
+http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/113.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/bein1.png" group-title="SPORT", Bein Sport HD 2 (Backup)
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/151144
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSot70Wvi3D0X83l6luH_1BJEB8Na26BHrjMg&usqp=CAU" group-title="SPORT", Bein Sport HD 3
