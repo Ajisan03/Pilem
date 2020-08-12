@@ -33,8 +33,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT",TVN 1
-https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=macangratisan&v=1595610899
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157476
+https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/tvn.png" group-title="ENTERTAINMENT",TVN 2 (Backup)
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157476
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/rattus/tvn_rattus/playlist.m3u8
@@ -498,7 +498,7 @@ http://iptvstream.xyz:8080/live/Alifathaya/ad5b9baf/726.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES",HBO HD 1
-https://delivery.macan.live/stream/hbo/playlist.m3u8?token=macangratisan&v=1595610899
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157518
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/wirok/hbo_hd_wirok/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://x1.cdn.broiptv.online/img/hbo.png" group-title="MOVIES",HBO HD 2 (Backup)
@@ -513,7 +513,6 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=macangratisan&v=1595610899
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO HITS 2 (Backup)
-https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=macangratisan&v=1595610899
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO HITS 3 (Backup)
@@ -525,7 +524,6 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=macangratisan&v=1595610899
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES",HBO FAMILY 2 (Backup)
-https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=macangratisan&v=1595610899
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
 
@@ -534,7 +532,6 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/wirok/hbo_signature_wirok/playlist.m3u8
 https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_signature.png" group-title="MOVIES", HBO SIGNATURE 2 (Backup)
-https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=macangratisan&v=1595610899
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/fWeGA70q/wirok/hbo_signature_wirok/playlist.m3u8
 
@@ -617,6 +614,7 @@ http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/19HOKliH/norve
 http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/Iyl3ufhh/norvegicus/fox_family_movies_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", TVN Movie 1
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157520
 https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/tvnmovies.png" group-title="MOVIES", TVN Movie 2 (Backup)
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157520
@@ -634,7 +632,6 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/wirok/cinemax_wirok/playlist.m3u8
 https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/cinemax.png" group-title="MOVIES",Cinemax 2 (Backup)
-https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=macangratisan&v=1595610899
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/fWeGA70q/wirok/cinemax_wirok/playlist.m3u8
 
@@ -673,6 +670,7 @@ http://62.210.124.97:8080/p9JJJ9g9TY/f7HrN449rs/33250?token=HhVYAkpZQF8XV1sAD1YA
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/wirok/red_by_hbo_wirok/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES", RED by HBO 2 (Backup)
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
 https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=macangratisan&v=1595610899
 http://x1.broiptv.online/play/dwiheryanto@broiptv.online/42582659/ra9gjYfu/wirok/red_by_hbo_wirok/playlist.m3u8
 
