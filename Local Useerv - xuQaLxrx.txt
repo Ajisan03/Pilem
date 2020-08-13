@@ -518,7 +518,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_hits.png" group-title="MOVIES", HBO HITS 3 (Backup)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
+http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/eGdBUqp2/wirok/hbo_hits_wirok/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/78064174
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://x1.cdn.broiptv.online/img/hbo_family.png" group-title="MOVIES", HBO FAMILY 1
