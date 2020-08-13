@@ -541,6 +541,7 @@ http://x1.broiptv.online/play/ahmadfauzan@broiptv.online/08819501/fWeGA70q/wirok
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157471
 https://delivery.macan.live/stream/cm/playlist.m3u8?token=macangratisan&v=1595610899
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES",CELESTIAL MOVIES HD 2 (Backup)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157471
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.online/img/celestialmovie.png" group-title="MOVIES",CELESTIAL MOVIES HD 3 (Backup)
